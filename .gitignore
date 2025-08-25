@@ -1,0 +1,7 @@
+# Limit large image uploads
+data/images/**
+!data/images/.keep
+data/split/train_images/**
+!data/split/train_images/.keep
+data/split/test_images/**
+!data/split/test_images/.keep

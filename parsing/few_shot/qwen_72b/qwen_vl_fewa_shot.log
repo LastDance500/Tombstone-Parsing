@@ -1,0 +1,2421 @@
+/home/xzhang2/miniconda3/envs/Image/lib/python3.10/site-packages/transformers/utils/hub.py:106: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Downloading shards:   0%|          | 0/38 [00:00<?, ?it/s]Downloading shards: 100%|██████████| 38/38 [00:00<00:00, 695.10it/s]
+Loading checkpoint shards:   0%|          | 0/38 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/38 [00:04<02:40,  4.35s/it]Loading checkpoint shards:   5%|▌         | 2/38 [00:08<02:35,  4.32s/it]Loading checkpoint shards:   8%|▊         | 3/38 [00:12<02:30,  4.30s/it]Loading checkpoint shards:  11%|█         | 4/38 [00:17<02:24,  4.25s/it]Loading checkpoint shards:  13%|█▎        | 5/38 [00:21<02:20,  4.25s/it]Loading checkpoint shards:  16%|█▌        | 6/38 [00:25<02:15,  4.23s/it]Loading checkpoint shards:  18%|█▊        | 7/38 [00:29<02:11,  4.25s/it]Loading checkpoint shards:  21%|██        | 8/38 [00:34<02:07,  4.25s/it]Loading checkpoint shards:  24%|██▎       | 9/38 [00:38<02:02,  4.23s/it]Loading checkpoint shards:  26%|██▋       | 10/38 [00:42<01:58,  4.24s/it]Loading checkpoint shards:  29%|██▉       | 11/38 [00:46<01:54,  4.23s/it]Loading checkpoint shards:  32%|███▏      | 12/38 [00:51<01:50,  4.24s/it]Loading checkpoint shards:  34%|███▍      | 13/38 [00:55<01:45,  4.23s/it]Loading checkpoint shards:  37%|███▋      | 14/38 [00:59<01:42,  4.25s/it]Loading checkpoint shards:  39%|███▉      | 15/38 [01:03<01:37,  4.25s/it]Loading checkpoint shards:  42%|████▏     | 16/38 [01:07<01:33,  4.25s/it]Loading checkpoint shards:  45%|████▍     | 17/38 [01:12<01:28,  4.22s/it]Loading checkpoint shards:  47%|████▋     | 18/38 [01:16<01:24,  4.23s/it]Loading checkpoint shards:  50%|█████     | 19/38 [01:20<01:20,  4.26s/it]Loading checkpoint shards:  53%|█████▎    | 20/38 [01:25<01:17,  4.29s/it]Loading checkpoint shards:  55%|█████▌    | 21/38 [01:29<01:12,  4.26s/it]Loading checkpoint shards:  58%|█████▊    | 22/38 [01:35<01:16,  4.76s/it]Loading checkpoint shards:  61%|██████    | 23/38 [01:39<01:08,  4.59s/it]Loading checkpoint shards:  63%|██████▎   | 24/38 [01:43<01:02,  4.50s/it]Loading checkpoint shards:  66%|██████▌   | 25/38 [01:47<00:57,  4.39s/it]Loading checkpoint shards:  68%|██████▊   | 26/38 [01:52<00:52,  4.38s/it]Loading checkpoint shards:  71%|███████   | 27/38 [01:56<00:48,  4.45s/it]Loading checkpoint shards:  74%|███████▎  | 28/38 [02:01<00:44,  4.48s/it]Loading checkpoint shards:  76%|███████▋  | 29/38 [02:05<00:40,  4.47s/it]Loading checkpoint shards:  79%|███████▉  | 30/38 [02:10<00:35,  4.49s/it]Loading checkpoint shards:  82%|████████▏ | 31/38 [02:14<00:31,  4.49s/it]Loading checkpoint shards:  84%|████████▍ | 32/38 [02:19<00:26,  4.49s/it]Loading checkpoint shards:  87%|████████▋ | 33/38 [02:23<00:22,  4.48s/it]Loading checkpoint shards:  89%|████████▉ | 34/38 [02:28<00:17,  4.49s/it]Loading checkpoint shards:  92%|█████████▏| 35/38 [02:32<00:13,  4.50s/it]Loading checkpoint shards:  95%|█████████▍| 36/38 [02:37<00:09,  4.51s/it]Loading checkpoint shards:  97%|█████████▋| 37/38 [02:40<00:04,  4.03s/it]Loading checkpoint shards: 100%|██████████| 38/38 [02:42<00:00,  3.62s/it]Loading checkpoint shards: 100%|██████████| 38/38 [02:42<00:00,  4.29s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.48, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Total files to process: 600
+Already processed files: 0
+Processing (1/600): t00208.jpg
+Saved progress: t00208.jpg processed.
+Processing (2/600): t00424.jpg
+Saved progress: t00424.jpg processed.
+Processing (3/600): t00980.jpg
+Saved progress: t00980.jpg processed.
+Processing (4/600): t00781.jpg
+Saved progress: t00781.jpg processed.
+Processing (5/600): t00802.jpg
+Saved progress: t00802.jpg processed.
+Processing (6/600): t00592.jpg
+Saved progress: t00592.jpg processed.
+Processing (7/600): t00913.jpg
+Saved progress: t00913.jpg processed.
+Processing (8/600): t00775.jpg
+Saved progress: t00775.jpg processed.
+Processing (9/600): t01136.jpg
+Saved progress: t01136.jpg processed.
+Processing (10/600): t00109.jpg
+Saved progress: t00109.jpg processed.
+Processing (11/600): t01013.jpg
+Saved progress: t01013.jpg processed.
+Processing (12/600): t00806.jpg
+Saved progress: t00806.jpg processed.
+Processing (13/600): t00013.jpg
+Saved progress: t00013.jpg processed.
+Processing (14/600): t00550.jpg
+Saved progress: t00550.jpg processed.
+Processing (15/600): t00676.jpg
+Saved progress: t00676.jpg processed.
+Processing (16/600): t00327.jpg
+Saved progress: t00327.jpg processed.
+Processing (17/600): t01040.jpg
+Saved progress: t01040.jpg processed.
+Processing (18/600): t00061.jpg
+Saved progress: t00061.jpg processed.
+Processing (19/600): t00025.jpg
+Saved progress: t00025.jpg processed.
+Processing (20/600): t01149.jpg
+Saved progress: t01149.jpg processed.
+Processing (21/600): t00997.jpg
+Saved progress: t00997.jpg processed.
+Processing (22/600): t00970.jpg
+Saved progress: t00970.jpg processed.
+Processing (23/600): t00407.jpg
+Saved progress: t00407.jpg processed.
+Processing (24/600): t00064.jpg
+Saved progress: t00064.jpg processed.
+Processing (25/600): t01176.jpg
+Saved progress: t01176.jpg processed.
+Processing (26/600): t00161.jpg
+Saved progress: t00161.jpg processed.
+Processing (27/600): t00459.jpg
+Saved progress: t00459.jpg processed.
+Processing (28/600): t00288.jpg
+Saved progress: t00288.jpg processed.
+Processing (29/600): t00469.jpg
+Saved progress: t00469.jpg processed.
+Processing (30/600): t00250.jpg
+Saved progress: t00250.jpg processed.
+Processing (31/600): t00094.jpg
+Saved progress: t00094.jpg processed.
+Processing (32/600): t00875.jpg
+Saved progress: t00875.jpg processed.
+Processing (33/600): t00036.jpg
+Saved progress: t00036.jpg processed.
+Processing (34/600): t00373.jpg
+Saved progress: t00373.jpg processed.
+Processing (35/600): t00333.jpg
+Saved progress: t00333.jpg processed.
+Processing (36/600): t00255.jpg
+Saved progress: t00255.jpg processed.
+Processing (37/600): t00710.jpg
+Saved progress: t00710.jpg processed.
+Processing (38/600): t00105.jpg
+Saved progress: t00105.jpg processed.
+Processing (39/600): t00201.jpg
+Saved progress: t00201.jpg processed.
+Processing (40/600): t00075.jpg
+Saved progress: t00075.jpg processed.
+Processing (41/600): t00663.jpg
+Saved progress: t00663.jpg processed.
+Processing (42/600): t01039.jpg
+Saved progress: t01039.jpg processed.
+Processing (43/600): t00835.jpg
+Saved progress: t00835.jpg processed.
+Processing (44/600): t00644.jpg
+Saved progress: t00644.jpg processed.
+Processing (45/600): t00691.jpg
+Saved progress: t00691.jpg processed.
+Processing (46/600): t00268.jpg
+Saved progress: t00268.jpg processed.
+Processing (47/600): t00137.jpg
+Saved progress: t00137.jpg processed.
+Processing (48/600): t00262.jpg
+Saved progress: t00262.jpg processed.
+Processing (49/600): t00484.jpg
+Saved progress: t00484.jpg processed.
+Processing (50/600): t00542.jpg
+Saved progress: t00542.jpg processed.
+Processing (51/600): t00646.jpg
+Saved progress: t00646.jpg processed.
+Processing (52/600): t01193.jpg
+Saved progress: t01193.jpg processed.
+Processing (53/600): t00951.jpg
+Saved progress: t00951.jpg processed.
+Processing (54/600): t00449.jpg
+Saved progress: t00449.jpg processed.
+Processing (55/600): t00457.jpg
+Saved progress: t00457.jpg processed.
+Processing (56/600): t00043.jpg
+Saved progress: t00043.jpg processed.
+Processing (57/600): t00493.jpg
+Saved progress: t00493.jpg processed.
+Processing (58/600): t00696.jpg
+Saved progress: t00696.jpg processed.
+Processing (59/600): t00928.jpg
+Saved progress: t00928.jpg processed.
+Processing (60/600): t00338.jpg
+Saved progress: t00338.jpg processed.
+Processing (61/600): t00460.jpg
+Saved progress: t00460.jpg processed.
+Processing (62/600): t01048.jpg
+Saved progress: t01048.jpg processed.
+Processing (63/600): t00885.jpg
+Saved progress: t00885.jpg processed.
+Processing (64/600): t00100.jpg
+Saved progress: t00100.jpg processed.
+Processing (65/600): t00198.jpg
+Saved progress: t00198.jpg processed.
+Processing (66/600): t01196.jpg
+Saved progress: t01196.jpg processed.
+Processing (67/600): t00490.jpg
+Saved progress: t00490.jpg processed.
+Processing (68/600): t00558.jpg
+Saved progress: t00558.jpg processed.
+Processing (69/600): t00488.jpg
+Saved progress: t00488.jpg processed.
+Processing (70/600): t00070.jpg
+Saved progress: t00070.jpg processed.
+Processing (71/600): t00318.jpg
+Saved progress: t00318.jpg processed.
+Processing (72/600): t01009.jpg
+Saved progress: t01009.jpg processed.
+Processing (73/600): t00519.jpg
+Saved progress: t00519.jpg processed.
+Processing (74/600): t00987.jpg
+Saved progress: t00987.jpg processed.
+Processing (75/600): t00943.jpg
+Saved progress: t00943.jpg processed.
+Processing (76/600): t00516.jpg
+Saved progress: t00516.jpg processed.
+Processing (77/600): t00405.jpg
+Saved progress: t00405.jpg processed.
+Processing (78/600): t01137.jpg
+Saved progress: t01137.jpg processed.
+Processing (79/600): t00746.jpg
+Saved progress: t00746.jpg processed.
+Processing (80/600): t00578.jpg
+Saved progress: t00578.jpg processed.
+Processing (81/600): t00879.jpg
+Saved progress: t00879.jpg processed.
+Processing (82/600): t00088.jpg
+Saved progress: t00088.jpg processed.
+Processing (83/600): t00329.jpg
+Saved progress: t00329.jpg processed.
+Processing (84/600): t00267.jpg
+Saved progress: t00267.jpg processed.
+Processing (85/600): t00009.jpg
+Saved progress: t00009.jpg processed.
+Processing (86/600): t01159.jpg
+Saved progress: t01159.jpg processed.
+Processing (87/600): t00065.jpg
+Saved progress: t00065.jpg processed.
+Processing (88/600): t01045.jpg
+Saved progress: t01045.jpg processed.
+Processing (89/600): t00965.jpg
+Saved progress: t00965.jpg processed.
+Processing (90/600): t00826.jpg
+Saved progress: t00826.jpg processed.
+Processing (91/600): t00138.jpg
+Saved progress: t00138.jpg processed.
+Processing (92/600): t01007.jpg
+Saved progress: t01007.jpg processed.
+Processing (93/600): t00546.jpg
+Saved progress: t00546.jpg processed.
+Processing (94/600): t00774.jpg
+Saved progress: t00774.jpg processed.
+Processing (95/600): t00797.jpg
+Saved progress: t00797.jpg processed.
+Processing (96/600): t00219.jpg
+Saved progress: t00219.jpg processed.
+Processing (97/600): t00444.jpg
+Saved progress: t00444.jpg processed.
+Processing (98/600): t00698.jpg
+Saved progress: t00698.jpg processed.
+Processing (99/600): t00465.jpg
+Saved progress: t00465.jpg processed.
+Processing (100/600): t00573.jpg
+Saved progress: t00573.jpg processed.
+Processing (101/600): t00146.jpg
+Saved progress: t00146.jpg processed.
+Processing (102/600): t00849.jpg
+Saved progress: t00849.jpg processed.
+Processing (103/600): t01135.jpg
+Saved progress: t01135.jpg processed.
+Processing (104/600): t00330.jpg
+Saved progress: t00330.jpg processed.
+Processing (105/600): t00357.jpg
+Saved progress: t00357.jpg processed.
+Processing (106/600): t00197.jpg
+Saved progress: t00197.jpg processed.
+Processing (107/600): t00914.jpg
+Saved progress: t00914.jpg processed.
+Processing (108/600): t01062.jpg
+Saved progress: t01062.jpg processed.
+Processing (109/600): t00142.jpg
+Saved progress: t00142.jpg processed.
+Processing (110/600): t01096.jpg
+Saved progress: t01096.jpg processed.
+Processing (111/600): t01057.jpg
+Saved progress: t01057.jpg processed.
+Processing (112/600): t01003.jpg
+Saved progress: t01003.jpg processed.
+Processing (113/600): t00415.jpg
+Saved progress: t00415.jpg processed.
+Processing (114/600): t00659.jpg
+Saved progress: t00659.jpg processed.
+Processing (115/600): t00722.jpg
+Saved progress: t00722.jpg processed.
+Processing (116/600): t00760.jpg
+Saved progress: t00760.jpg processed.
+Processing (117/600): t00919.jpg
+Saved progress: t00919.jpg processed.
+Processing (118/600): t01051.jpg
+Saved progress: t01051.jpg processed.
+Processing (119/600): t00102.jpg
+Saved progress: t00102.jpg processed.
+Processing (120/600): t01079.jpg
+Saved progress: t01079.jpg processed.
+Processing (121/600): t00471.jpg
+Saved progress: t00471.jpg processed.
+Processing (122/600): t00052.jpg
+Saved progress: t00052.jpg processed.
+Processing (123/600): t01109.jpg
+Saved progress: t01109.jpg processed.
+Processing (124/600): t00204.jpg
+Saved progress: t00204.jpg processed.
+Processing (125/600): t00151.jpg
+Saved progress: t00151.jpg processed.
+Processing (126/600): t00960.jpg
+Saved progress: t00960.jpg processed.
+Processing (127/600): t00945.jpg
+Saved progress: t00945.jpg processed.
+Processing (128/600): t00827.jpg
+Saved progress: t00827.jpg processed.
+Processing (129/600): t00978.jpg
+Saved progress: t00978.jpg processed.
+Processing (130/600): t00882.jpg
+Saved progress: t00882.jpg processed.
+Processing (131/600): t00001.jpg
+Saved progress: t00001.jpg processed.
+Processing (132/600): t01043.jpg
+Saved progress: t01043.jpg processed.
+Processing (133/600): t01118.jpg
+Saved progress: t01118.jpg processed.
+Processing (134/600): t00543.jpg
+Saved progress: t00543.jpg processed.
+Processing (135/600): t00863.jpg
+Saved progress: t00863.jpg processed.
+Processing (136/600): t00248.jpg
+Saved progress: t00248.jpg processed.
+Processing (137/600): t00769.jpg
+Saved progress: t00769.jpg processed.
+Processing (138/600): t00456.jpg
+Saved progress: t00456.jpg processed.
+Processing (139/600): t00324.jpg
+Saved progress: t00324.jpg processed.
+Processing (140/600): t00343.jpg
+Saved progress: t00343.jpg processed.
+Processing (141/600): t00194.jpg
+Saved progress: t00194.jpg processed.
+Processing (142/600): t01065.jpg
+Saved progress: t01065.jpg processed.
+Processing (143/600): t00312.jpg
+Saved progress: t00312.jpg processed.
+Processing (144/600): t01124.jpg
+Saved progress: t01124.jpg processed.
+Processing (145/600): t00556.jpg
+Saved progress: t00556.jpg processed.
+Processing (146/600): t00908.jpg
+Saved progress: t00908.jpg processed.
+Processing (147/600): t00124.jpg
+Saved progress: t00124.jpg processed.
+Processing (148/600): t01148.jpg
+Saved progress: t01148.jpg processed.
+Processing (149/600): t00422.jpg
+Saved progress: t00422.jpg processed.
+Processing (150/600): t01199.jpg
+Saved progress: t01199.jpg processed.
+Processing (151/600): t01167.jpg
+Saved progress: t01167.jpg processed.
+Processing (152/600): t01022.jpg
+Saved progress: t01022.jpg processed.
+Processing (153/600): t00074.jpg
+Saved progress: t00074.jpg processed.
+Processing (154/600): t00127.jpg
+Saved progress: t00127.jpg processed.
+Processing (155/600): t00505.jpg
+Saved progress: t00505.jpg processed.
+Processing (156/600): t00583.jpg
+Saved progress: t00583.jpg processed.
+Processing (157/600): t01120.jpg
+Saved progress: t01120.jpg processed.
+Processing (158/600): t01197.jpg
+Saved progress: t01197.jpg processed.
+Processing (159/600): t00608.jpg
+Saved progress: t00608.jpg processed.
+Processing (160/600): t00209.jpg
+Saved progress: t00209.jpg processed.
+Processing (161/600): t00979.jpg
+Saved progress: t00979.jpg processed.
+Processing (162/600): t00667.jpg
+Saved progress: t00667.jpg processed.
+Processing (163/600): t01103.jpg
+Saved progress: t01103.jpg processed.
+Processing (164/600): t00649.jpg
+Saved progress: t00649.jpg processed.
+Processing (165/600): t01178.jpg
+Saved progress: t01178.jpg processed.
+Processing (166/600): t00183.jpg
+Saved progress: t00183.jpg processed.
+Processing (167/600): t00062.jpg
+Saved progress: t00062.jpg processed.
+Processing (168/600): t01154.jpg
+Saved progress: t01154.jpg processed.
+Processing (169/600): t00674.jpg
+Saved progress: t00674.jpg processed.
+Processing (170/600): t00086.jpg
+Saved progress: t00086.jpg processed.
+Processing (171/600): t00777.jpg
+Saved progress: t00777.jpg processed.
+Processing (172/600): t00023.jpg
+Saved progress: t00023.jpg processed.
+Processing (173/600): t00130.jpg
+Saved progress: t00130.jpg processed.
+Processing (174/600): t00448.jpg
+Saved progress: t00448.jpg processed.
+Processing (175/600): t00552.jpg
+Saved progress: t00552.jpg processed.
+Processing (176/600): t00555.jpg
+Saved progress: t00555.jpg processed.
+Processing (177/600): t00411.jpg
+Saved progress: t00411.jpg processed.
+Processing (178/600): t00336.jpg
+Saved progress: t00336.jpg processed.
+Processing (179/600): t01029.jpg
+Saved progress: t01029.jpg processed.
+Processing (180/600): t00570.jpg
+Saved progress: t00570.jpg processed.
+Processing (181/600): t01116.jpg
+Saved progress: t01116.jpg processed.
+Processing (182/600): t00141.jpg
+Saved progress: t00141.jpg processed.
+Processing (183/600): t00567.jpg
+Saved progress: t00567.jpg processed.
+Processing (184/600): t00399.jpg
+Saved progress: t00399.jpg processed.
+Processing (185/600): t00290.jpg
+Saved progress: t00290.jpg processed.
+Processing (186/600): t01032.jpg
+Saved progress: t01032.jpg processed.
+Processing (187/600): t00873.jpg
+Saved progress: t00873.jpg processed.
+Processing (188/600): t01070.jpg
+Saved progress: t01070.jpg processed.
+Processing (189/600): t01025.jpg
+Saved progress: t01025.jpg processed.
+Processing (190/600): t00323.jpg
+Saved progress: t00323.jpg processed.
+Processing (191/600): t01171.jpg
+Saved progress: t01171.jpg processed.
+Processing (192/600): t00059.jpg
+Saved progress: t00059.jpg processed.
+Processing (193/600): t00135.jpg
+Saved progress: t00135.jpg processed.
+Processing (194/600): t00131.jpg
+Saved progress: t00131.jpg processed.
+Processing (195/600): t00664.jpg
+Saved progress: t00664.jpg processed.
+Processing (196/600): t01161.jpg
+Saved progress: t01161.jpg processed.
+Processing (197/600): t00990.jpg
+Saved progress: t00990.jpg processed.
+Processing (198/600): t00940.jpg
+Saved progress: t00940.jpg processed.
+Processing (199/600): t00168.jpg
+Saved progress: t00168.jpg processed.
+Processing (200/600): t00890.jpg
+Saved progress: t00890.jpg processed.
+Processing (201/600): t00752.jpg
+Saved progress: t00752.jpg processed.
+Processing (202/600): t00199.jpg
+Saved progress: t00199.jpg processed.
+Processing (203/600): t00669.jpg
+Saved progress: t00669.jpg processed.
+Processing (204/600): t00244.jpg
+Saved progress: t00244.jpg processed.
+Processing (205/600): t00060.jpg
+Saved progress: t00060.jpg processed.
+Processing (206/600): t00563.jpg
+Saved progress: t00563.jpg processed.
+Processing (207/600): t00695.jpg
+Saved progress: t00695.jpg processed.
+Processing (208/600): t01172.jpg
+Saved progress: t01172.jpg processed.
+Processing (209/600): t01019.jpg
+Saved progress: t01019.jpg processed.
+Processing (210/600): t00963.jpg
+Saved progress: t00963.jpg processed.
+Processing (211/600): t00707.jpg
+Saved progress: t00707.jpg processed.
+Processing (212/600): t00473.jpg
+Saved progress: t00473.jpg processed.
+Processing (213/600): t00977.jpg
+Saved progress: t00977.jpg processed.
+Processing (214/600): t00720.jpg
+Saved progress: t00720.jpg processed.
+Processing (215/600): t01087.jpg
+Saved progress: t01087.jpg processed.
+Processing (216/600): t00520.jpg
+Saved progress: t00520.jpg processed.
+Processing (217/600): t00224.jpg
+Saved progress: t00224.jpg processed.
+Processing (218/600): t01020.jpg
+Saved progress: t01020.jpg processed.
+Processing (219/600): t01117.jpg
+Saved progress: t01117.jpg processed.
+Processing (220/600): t00593.jpg
+Saved progress: t00593.jpg processed.
+Processing (221/600): t00569.jpg
+Saved progress: t00569.jpg processed.
+Processing (222/600): t00865.jpg
+Saved progress: t00865.jpg processed.
+Processing (223/600): t00803.jpg
+Saved progress: t00803.jpg processed.
+Processing (224/600): t00347.jpg
+Saved progress: t00347.jpg processed.
+Processing (225/600): t00468.jpg
+Saved progress: t00468.jpg processed.
+Processing (226/600): t00764.jpg
+Saved progress: t00764.jpg processed.
+Processing (227/600): t00321.jpg
+Saved progress: t00321.jpg processed.
+Processing (228/600): t01105.jpg
+Saved progress: t01105.jpg processed.
+Processing (229/600): t00441.jpg
+Saved progress: t00441.jpg processed.
+Processing (230/600): t00596.jpg
+Saved progress: t00596.jpg processed.
+Processing (231/600): t00134.jpg
+Saved progress: t00134.jpg processed.
+Processing (232/600): t00656.jpg
+Saved progress: t00656.jpg processed.
+Processing (233/600): t01129.jpg
+Saved progress: t01129.jpg processed.
+Processing (234/600): t00967.jpg
+Saved progress: t00967.jpg processed.
+Processing (235/600): t00446.jpg
+Saved progress: t00446.jpg processed.
+Processing (236/600): t00924.jpg
+Saved progress: t00924.jpg processed.
+Processing (237/600): t00249.jpg
+Saved progress: t00249.jpg processed.
+Processing (238/600): t00082.jpg
+Saved progress: t00082.jpg processed.
+Processing (239/600): t00270.jpg
+Saved progress: t00270.jpg processed.
+Processing (240/600): t00003.jpg
+Saved progress: t00003.jpg processed.
+Processing (241/600): t00734.jpg
+Saved progress: t00734.jpg processed.
+Processing (242/600): t00228.jpg
+Saved progress: t00228.jpg processed.
+Processing (243/600): t00416.jpg
+Saved progress: t00416.jpg processed.
+Processing (244/600): t00830.jpg
+Saved progress: t00830.jpg processed.
+Processing (245/600): t00243.jpg
+Saved progress: t00243.jpg processed.
+Processing (246/600): t00278.jpg
+Saved progress: t00278.jpg processed.
+Processing (247/600): t00648.jpg
+Saved progress: t00648.jpg processed.
+Processing (248/600): t00122.jpg
+Saved progress: t00122.jpg processed.
+Processing (249/600): t00353.jpg
+Saved progress: t00353.jpg processed.
+Processing (250/600): t00564.jpg
+Saved progress: t00564.jpg processed.
+Processing (251/600): t00936.jpg
+Saved progress: t00936.jpg processed.
+Processing (252/600): t01198.jpg
+Saved progress: t01198.jpg processed.
+Processing (253/600): t00611.jpg
+Saved progress: t00611.jpg processed.
+Processing (254/600): t01055.jpg
+Saved progress: t01055.jpg processed.
+Processing (255/600): t00362.jpg
+Saved progress: t00362.jpg processed.
+Processing (256/600): t00679.jpg
+Saved progress: t00679.jpg processed.
+Processing (257/600): t00418.jpg
+Saved progress: t00418.jpg processed.
+Processing (258/600): t00252.jpg
+Saved progress: t00252.jpg processed.
+Processing (259/600): t00492.jpg
+Saved progress: t00492.jpg processed.
+Processing (260/600): t00432.jpg
+Saved progress: t00432.jpg processed.
+Processing (261/600): t00884.jpg
+Saved progress: t00884.jpg processed.
+Processing (262/600): t01115.jpg
+Saved progress: t01115.jpg processed.
+Processing (263/600): t00292.jpg
+Saved progress: t00292.jpg processed.
+Processing (264/600): t00551.jpg
+Saved progress: t00551.jpg processed.
+Processing (265/600): t00437.jpg
+Saved progress: t00437.jpg processed.
+Processing (266/600): t00158.jpg
+Saved progress: t00158.jpg processed.
+Processing (267/600): t00077.jpg
+Saved progress: t00077.jpg processed.
+Processing (268/600): t01111.jpg
+Saved progress: t01111.jpg processed.
+Processing (269/600): t00530.jpg
+Saved progress: t00530.jpg processed.
+Processing (270/600): t00358.jpg
+Saved progress: t00358.jpg processed.
+Processing (271/600): t01092.jpg
+Saved progress: t01092.jpg processed.
+Processing (272/600): t01073.jpg
+Saved progress: t01073.jpg processed.
+Processing (273/600): t00732.jpg
+Saved progress: t00732.jpg processed.
+Processing (274/600): t00452.jpg
+Saved progress: t00452.jpg processed.
+Processing (275/600): t00982.jpg
+Saved progress: t00982.jpg processed.
+Processing (276/600): t00069.jpg
+Saved progress: t00069.jpg processed.
+Processing (277/600): t00850.jpg
+Saved progress: t00850.jpg processed.
+Processing (278/600): t00271.jpg
+Saved progress: t00271.jpg processed.
+Processing (279/600): t00162.jpg
+Saved progress: t00162.jpg processed.
+Processing (280/600): t00181.jpg
+Saved progress: t00181.jpg processed.
+Processing (281/600): t00903.jpg
+Saved progress: t00903.jpg processed.
+Processing (282/600): t01098.jpg
+Saved progress: t01098.jpg processed.
+Processing (283/600): t00118.jpg
+Saved progress: t00118.jpg processed.
+Processing (284/600): t00114.jpg
+Saved progress: t00114.jpg processed.
+Processing (285/600): t00110.jpg
+Saved progress: t00110.jpg processed.
+Processing (286/600): t00421.jpg
+Saved progress: t00421.jpg processed.
+Processing (287/600): t01145.jpg
+Saved progress: t01145.jpg processed.
+Processing (288/600): t00283.jpg
+Saved progress: t00283.jpg processed.
+Processing (289/600): t01123.jpg
+Saved progress: t01123.jpg processed.
+Processing (290/600): t00378.jpg
+Saved progress: t00378.jpg processed.
+Processing (291/600): t01027.jpg
+Saved progress: t01027.jpg processed.
+Processing (292/600): t00024.jpg
+Saved progress: t00024.jpg processed.
+Processing (293/600): t00572.jpg
+Saved progress: t00572.jpg processed.
+Processing (294/600): t00303.jpg
+Saved progress: t00303.jpg processed.
+Processing (295/600): t00163.jpg
+Saved progress: t00163.jpg processed.
+Processing (296/600): t00481.jpg
+Saved progress: t00481.jpg processed.
+Processing (297/600): t00190.jpg
+Saved progress: t00190.jpg processed.
+Processing (298/600): t00854.jpg
+Saved progress: t00854.jpg processed.
+Processing (299/600): t00713.jpg
+Saved progress: t00713.jpg processed.
+Processing (300/600): t00866.jpg
+Saved progress: t00866.jpg processed.
+Processing (301/600): t01034.jpg
+Saved progress: t01034.jpg processed.
+Processing (302/600): t00229.jpg
+Saved progress: t00229.jpg processed.
+Processing (303/600): t00999.jpg
+Saved progress: t00999.jpg processed.
+Processing (304/600): t01194.jpg
+Saved progress: t01194.jpg processed.
+Processing (305/600): t00302.jpg
+Saved progress: t00302.jpg processed.
+Processing (306/600): t00966.jpg
+Saved progress: t00966.jpg processed.
+Processing (307/600): t01192.jpg
+Saved progress: t01192.jpg processed.
+Processing (308/600): t01099.jpg
+Saved progress: t01099.jpg processed.
+Processing (309/600): t00998.jpg
+Saved progress: t00998.jpg processed.
+Processing (310/600): t00055.jpg
+Saved progress: t00055.jpg processed.
+Processing (311/600): t00189.jpg
+Saved progress: t00189.jpg processed.
+Processing (312/600): t01004.jpg
+Saved progress: t01004.jpg processed.
+Processing (313/600): t00937.jpg
+Saved progress: t00937.jpg processed.
+Processing (314/600): t00440.jpg
+Saved progress: t00440.jpg processed.
+Processing (315/600): t00868.jpg
+Saved progress: t00868.jpg processed.
+Processing (316/600): t00447.jpg
+Saved progress: t00447.jpg processed.
+Processing (317/600): t01083.jpg
+Saved progress: t01083.jpg processed.
+Processing (318/600): t00869.jpg
+Saved progress: t00869.jpg processed.
+Processing (319/600): t00150.jpg
+Saved progress: t00150.jpg processed.
+Processing (320/600): t00589.jpg
+Saved progress: t00589.jpg processed.
+Processing (321/600): t00217.jpg
+Saved progress: t00217.jpg processed.
+Processing (322/600): t00136.jpg
+Saved progress: t00136.jpg processed.
+Processing (323/600): t00828.jpg
+Saved progress: t00828.jpg processed.
+Processing (324/600): t01100.jpg
+Saved progress: t01100.jpg processed.
+Processing (325/600): t01097.jpg
+Saved progress: t01097.jpg processed.
+Processing (326/600): t00408.jpg
+Saved progress: t00408.jpg processed.
+Processing (327/600): t01130.jpg
+Saved progress: t01130.jpg processed.
+Processing (328/600): t00598.jpg
+Saved progress: t00598.jpg processed.
+Processing (329/600): t00453.jpg
+Saved progress: t00453.jpg processed.
+Processing (330/600): t00553.jpg
+Saved progress: t00553.jpg processed.
+Processing (331/600): t00008.jpg
+Saved progress: t00008.jpg processed.
+Processing (332/600): t00002.jpg
+Saved progress: t00002.jpg processed.
+Processing (333/600): t00876.jpg
+Saved progress: t00876.jpg processed.
+Processing (334/600): t00625.jpg
+Saved progress: t00625.jpg processed.
+Processing (335/600): t00856.jpg
+Saved progress: t00856.jpg processed.
+Processing (336/600): t00957.jpg
+Saved progress: t00957.jpg processed.
+Processing (337/600): t00316.jpg
+Saved progress: t00316.jpg processed.
+Processing (338/600): t00747.jpg
+Saved progress: t00747.jpg processed.
+Processing (339/600): t01151.jpg
+Saved progress: t01151.jpg processed.
+Processing (340/600): t00486.jpg
+Saved progress: t00486.jpg processed.
+Processing (341/600): t00735.jpg
+Saved progress: t00735.jpg processed.
+Processing (342/600): t00054.jpg
+Saved progress: t00054.jpg processed.
+Processing (343/600): t00753.jpg
+Saved progress: t00753.jpg processed.
+Processing (344/600): t00955.jpg
+Saved progress: t00955.jpg processed.
+Processing (345/600): t00634.jpg
+Saved progress: t00634.jpg processed.
+Processing (346/600): t00638.jpg
+Saved progress: t00638.jpg processed.
+Processing (347/600): t00929.jpg
+Saved progress: t00929.jpg processed.
+Processing (348/600): t00435.jpg
+Saved progress: t00435.jpg processed.
+Processing (349/600): t00152.jpg
+Saved progress: t00152.jpg processed.
+Processing (350/600): t01006.jpg
+Saved progress: t01006.jpg processed.
+Processing (351/600): t00675.jpg
+Saved progress: t00675.jpg processed.
+Processing (352/600): t00682.jpg
+Saved progress: t00682.jpg processed.
+Processing (353/600): t00829.jpg
+Saved progress: t00829.jpg processed.
+Processing (354/600): t00498.jpg
+Saved progress: t00498.jpg processed.
+Processing (355/600): t00451.jpg
+Saved progress: t00451.jpg processed.
+Processing (356/600): t01090.jpg
+Saved progress: t01090.jpg processed.
+Processing (357/600): t01140.jpg
+Saved progress: t01140.jpg processed.
+Processing (358/600): t01000.jpg
+Saved progress: t01000.jpg processed.
+Processing (359/600): t00748.jpg
+Saved progress: t00748.jpg processed.
+Processing (360/600): t00840.jpg
+Saved progress: t00840.jpg processed.
+Processing (361/600): t01104.jpg
+Saved progress: t01104.jpg processed.
+Processing (362/600): t01181.jpg
+Saved progress: t01181.jpg processed.
+Processing (363/600): t01191.jpg
+Saved progress: t01191.jpg processed.
+Processing (364/600): t01095.jpg
+Saved progress: t01095.jpg processed.
+Processing (365/600): t01155.jpg
+Saved progress: t01155.jpg processed.
+Processing (366/600): t00388.jpg
+Saved progress: t00388.jpg processed.
+Processing (367/600): t00906.jpg
+Saved progress: t00906.jpg processed.
+Processing (368/600): t00548.jpg
+Saved progress: t00548.jpg processed.
+Processing (369/600): t01010.jpg
+Saved progress: t01010.jpg processed.
+Processing (370/600): t00620.jpg
+Saved progress: t00620.jpg processed.
+Processing (371/600): t00165.jpg
+Saved progress: t00165.jpg processed.
+Processing (372/600): t00506.jpg
+Saved progress: t00506.jpg processed.
+Processing (373/600): t00413.jpg
+Saved progress: t00413.jpg processed.
+Processing (374/600): t00789.jpg
+Saved progress: t00789.jpg processed.
+Processing (375/600): t00895.jpg
+Saved progress: t00895.jpg processed.
+Processing (376/600): t00630.jpg
+Saved progress: t00630.jpg processed.
+Processing (377/600): t00429.jpg
+Saved progress: t00429.jpg processed.
+Processing (378/600): t00988.jpg
+Saved progress: t00988.jpg processed.
+Processing (379/600): t00704.jpg
+Saved progress: t00704.jpg processed.
+Processing (380/600): t01189.jpg
+Saved progress: t01189.jpg processed.
+Processing (381/600): t01110.jpg
+Saved progress: t01110.jpg processed.
+Processing (382/600): t00526.jpg
+Saved progress: t00526.jpg processed.
+Processing (383/600): t00609.jpg
+Saved progress: t00609.jpg processed.
+Processing (384/600): t00339.jpg
+Saved progress: t00339.jpg processed.
+Processing (385/600): t00795.jpg
+Saved progress: t00795.jpg processed.
+Processing (386/600): t00039.jpg
+Saved progress: t00039.jpg processed.
+Processing (387/600): t00233.jpg
+Saved progress: t00233.jpg processed.
+Processing (388/600): t00817.jpg
+Saved progress: t00817.jpg processed.
+Processing (389/600): t00340.jpg
+Saved progress: t00340.jpg processed.
+Processing (390/600): t00692.jpg
+Saved progress: t00692.jpg processed.
+Processing (391/600): t00836.jpg
+Saved progress: t00836.jpg processed.
+Processing (392/600): t00497.jpg
+Saved progress: t00497.jpg processed.
+Processing (393/600): t00816.jpg
+Saved progress: t00816.jpg processed.
+Processing (394/600): t00242.jpg
+Saved progress: t00242.jpg processed.
+Processing (395/600): t00741.jpg
+Saved progress: t00741.jpg processed.
+Processing (396/600): t01127.jpg
+Saved progress: t01127.jpg processed.
+Processing (397/600): t00273.jpg
+Saved progress: t00273.jpg processed.
+Processing (398/600): t00391.jpg
+Saved progress: t00391.jpg processed.
+Processing (399/600): t00313.jpg
+Saved progress: t00313.jpg processed.
+Processing (400/600): t00240.jpg
+Saved progress: t00240.jpg processed.
+Processing (401/600): t00600.jpg
+Saved progress: t00600.jpg processed.
+Processing (402/600): t00466.jpg
+Saved progress: t00466.jpg processed.
+Processing (403/600): t00539.jpg
+Saved progress: t00539.jpg processed.
+Processing (404/600): t00745.jpg
+Saved progress: t00745.jpg processed.
+Processing (405/600): t01067.jpg
+Saved progress: t01067.jpg processed.
+Processing (406/600): t00969.jpg
+Saved progress: t00969.jpg processed.
+Processing (407/600): t00740.jpg
+Saved progress: t00740.jpg processed.
+Processing (408/600): t00099.jpg
+Saved progress: t00099.jpg processed.
+Processing (409/600): t00254.jpg
+Saved progress: t00254.jpg processed.
+Processing (410/600): t00574.jpg
+Saved progress: t00574.jpg processed.
+Processing (411/600): t00095.jpg
+Saved progress: t00095.jpg processed.
+Processing (412/600): t00143.jpg
+Saved progress: t00143.jpg processed.
+Processing (413/600): t00711.jpg
+Saved progress: t00711.jpg processed.
+Processing (414/600): t00727.jpg
+Saved progress: t00727.jpg processed.
+Processing (415/600): t00182.jpg
+Saved progress: t00182.jpg processed.
+Processing (416/600): t00173.jpg
+Saved progress: t00173.jpg processed.
+Processing (417/600): t00523.jpg
+Saved progress: t00523.jpg processed.
+Processing (418/600): t00549.jpg
+Saved progress: t00549.jpg processed.
+Processing (419/600): t00782.jpg
+Saved progress: t00782.jpg processed.
+Processing (420/600): t00111.jpg
+Saved progress: t00111.jpg processed.
+Processing (421/600): t00535.jpg
+Saved progress: t00535.jpg processed.
+Processing (422/600): t00946.jpg
+Saved progress: t00946.jpg processed.
+Processing (423/600): t01142.jpg
+Saved progress: t01142.jpg processed.
+Processing (424/600): t00372.jpg
+Saved progress: t00372.jpg processed.
+Processing (425/600): t00311.jpg
+Saved progress: t00311.jpg processed.
+Processing (426/600): t00518.jpg
+Saved progress: t00518.jpg processed.
+Processing (427/600): t00040.jpg
+Saved progress: t00040.jpg processed.
+Processing (428/600): t00045.jpg
+Saved progress: t00045.jpg processed.
+Processing (429/600): t01185.jpg
+Saved progress: t01185.jpg processed.
+Processing (430/600): t00754.jpg
+Saved progress: t00754.jpg processed.
+Processing (431/600): t00964.jpg
+Saved progress: t00964.jpg processed.
+Processing (432/600): t00703.jpg
+Saved progress: t00703.jpg processed.
+Processing (433/600): t00351.jpg
+Saved progress: t00351.jpg processed.
+Processing (434/600): t00247.jpg
+Saved progress: t00247.jpg processed.
+Processing (435/600): t00028.jpg
+Saved progress: t00028.jpg processed.
+Processing (436/600): t00005.jpg
+Saved progress: t00005.jpg processed.
+Processing (437/600): t01101.jpg
+Saved progress: t01101.jpg processed.
+Processing (438/600): t00689.jpg
+Saved progress: t00689.jpg processed.
+Processing (439/600): t00601.jpg
+Saved progress: t00601.jpg processed.
+Processing (440/600): t00986.jpg
+Saved progress: t00986.jpg processed.
+Processing (441/600): t01093.jpg
+Saved progress: t01093.jpg processed.
+Processing (442/600): t01126.jpg
+Saved progress: t01126.jpg processed.
+Processing (443/600): t01177.jpg
+Saved progress: t01177.jpg processed.
+Processing (444/600): t00900.jpg
+Saved progress: t00900.jpg processed.
+Processing (445/600): t00538.jpg
+Saved progress: t00538.jpg processed.
+Processing (446/600): t00326.jpg
+Saved progress: t00326.jpg processed.
+Processing (447/600): t00120.jpg
+Saved progress: t00120.jpg processed.
+Processing (448/600): t00680.jpg
+Saved progress: t00680.jpg processed.
+Processing (449/600): t00350.jpg
+Saved progress: t00350.jpg processed.
+Processing (450/600): t00170.jpg
+Saved progress: t00170.jpg processed.
+Processing (451/600): t00430.jpg
+Saved progress: t00430.jpg processed.
+Processing (452/600): t00864.jpg
+Saved progress: t00864.jpg processed.
+Processing (453/600): t00652.jpg
+Saved progress: t00652.jpg processed.
+Processing (454/600): t00660.jpg
+Saved progress: t00660.jpg processed.
+Processing (455/600): t00733.jpg
+Saved progress: t00733.jpg processed.
+Processing (456/600): t00521.jpg
+Saved progress: t00521.jpg processed.
+Processing (457/600): t00133.jpg
+Saved progress: t00133.jpg processed.
+Processing (458/600): t00514.jpg
+Saved progress: t00514.jpg processed.
+Processing (459/600): t00636.jpg
+Saved progress: t00636.jpg processed.
+Processing (460/600): t00433.jpg
+Saved progress: t00433.jpg processed.
+Processing (461/600): t01163.jpg
+Saved progress: t01163.jpg processed.
+Processing (462/600): t00365.jpg
+Saved progress: t00365.jpg processed.
+Processing (463/600): t00412.jpg
+Saved progress: t00412.jpg processed.
+Processing (464/600): t00709.jpg
+Saved progress: t00709.jpg processed.
+Processing (465/600): t00000.jpg
+Saved progress: t00000.jpg processed.
+Processing (466/600): t00686.jpg
+Saved progress: t00686.jpg processed.
+Processing (467/600): t00953.jpg
+Saved progress: t00953.jpg processed.
+Processing (468/600): t00821.jpg
+Saved progress: t00821.jpg processed.
+Processing (469/600): t00393.jpg
+Saved progress: t00393.jpg processed.
+Processing (470/600): t00309.jpg
+Saved progress: t00309.jpg processed.
+Processing (471/600): t00222.jpg
+Saved progress: t00222.jpg processed.
+Processing (472/600): t00257.jpg
+Saved progress: t00257.jpg processed.
+Processing (473/600): t00718.jpg
+Saved progress: t00718.jpg processed.
+Processing (474/600): t00621.jpg
+Saved progress: t00621.jpg processed.
+Processing (475/600): t00501.jpg
+Saved progress: t00501.jpg processed.
+Processing (476/600): t00175.jpg
+Saved progress: t00175.jpg processed.
+Processing (477/600): t00051.jpg
+Saved progress: t00051.jpg processed.
+Processing (478/600): t00291.jpg
+Saved progress: t00291.jpg processed.
+Processing (479/600): t00771.jpg
+Saved progress: t00771.jpg processed.
+Processing (480/600): t00359.jpg
+Saved progress: t00359.jpg processed.
+Processing (481/600): t01165.jpg
+Saved progress: t01165.jpg processed.
+Processing (482/600): t00093.jpg
+Saved progress: t00093.jpg processed.
+Processing (483/600): t00203.jpg
+Saved progress: t00203.jpg processed.
+Processing (484/600): t00661.jpg
+Saved progress: t00661.jpg processed.
+Processing (485/600): t00597.jpg
+Saved progress: t00597.jpg processed.
+Processing (486/600): t00507.jpg
+Saved progress: t00507.jpg processed.
+Processing (487/600): t00517.jpg
+Saved progress: t00517.jpg processed.
+Processing (488/600): t00877.jpg
+Saved progress: t00877.jpg processed.
+Processing (489/600): t00899.jpg
+Saved progress: t00899.jpg processed.
+Processing (490/600): t00635.jpg
+Saved progress: t00635.jpg processed.
+Processing (491/600): t00083.jpg
+Saved progress: t00083.jpg processed.
+Processing (492/600): t00186.jpg
+Saved progress: t00186.jpg processed.
+Processing (493/600): t00015.jpg
+Saved progress: t00015.jpg processed.
+Processing (494/600): t00532.jpg
+Saved progress: t00532.jpg processed.
+Processing (495/600): t00500.jpg
+Saved progress: t00500.jpg processed.
+Processing (496/600): t00187.jpg
+Saved progress: t00187.jpg processed.
+Processing (497/600): t00772.jpg
+Saved progress: t00772.jpg processed.
+Processing (498/600): t00541.jpg
+Saved progress: t00541.jpg processed.
+Processing (499/600): t00334.jpg
+Saved progress: t00334.jpg processed.
+Processing (500/600): t01169.jpg
+Saved progress: t01169.jpg processed.
+Processing (501/600): t01005.jpg
+Saved progress: t01005.jpg processed.
+Processing (502/600): t00409.jpg
+Saved progress: t00409.jpg processed.
+Processing (503/600): t00315.jpg
+Saved progress: t00315.jpg processed.
+Processing (504/600): t00527.jpg
+Saved progress: t00527.jpg processed.
+Processing (505/600): t00006.jpg
+Saved progress: t00006.jpg processed.
+Processing (506/600): t00958.jpg
+Saved progress: t00958.jpg processed.
+Processing (507/600): t01147.jpg
+Saved progress: t01147.jpg processed.
+Processing (508/600): t00145.jpg
+Saved progress: t00145.jpg processed.
+Processing (509/600): t00981.jpg
+Saved progress: t00981.jpg processed.
+Processing (510/600): t00819.jpg
+Saved progress: t00819.jpg processed.
+Processing (511/600): t00582.jpg
+Saved progress: t00582.jpg processed.
+Processing (512/600): t00565.jpg
+Saved progress: t00565.jpg processed.
+Processing (513/600): t00467.jpg
+Saved progress: t00467.jpg processed.
+Processing (514/600): t01015.jpg
+Saved progress: t01015.jpg processed.
+Processing (515/600): t01082.jpg
+Saved progress: t01082.jpg processed.
+Processing (516/600): t01018.jpg
+Saved progress: t01018.jpg processed.
+Processing (517/600): t00178.jpg
+Saved progress: t00178.jpg processed.
+Processing (518/600): t00071.jpg
+Saved progress: t00071.jpg processed.
+Processing (519/600): t00206.jpg
+Saved progress: t00206.jpg processed.
+Processing (520/600): t00159.jpg
+Saved progress: t00159.jpg processed.
+Processing (521/600): t00234.jpg
+Saved progress: t00234.jpg processed.
+Processing (522/600): t00306.jpg
+Saved progress: t00306.jpg processed.
+Processing (523/600): t00394.jpg
+Saved progress: t00394.jpg processed.
+Processing (524/600): t00230.jpg
+Saved progress: t00230.jpg processed.
+Processing (525/600): t00629.jpg
+Saved progress: t00629.jpg processed.
+Processing (526/600): t00948.jpg
+Saved progress: t00948.jpg processed.
+Processing (527/600): t00293.jpg
+Saved progress: t00293.jpg processed.
+Processing (528/600): t00436.jpg
+Saved progress: t00436.jpg processed.
+Processing (529/600): t00260.jpg
+Saved progress: t00260.jpg processed.
+Processing (530/600): t00923.jpg
+Saved progress: t00923.jpg processed.
+Processing (531/600): t00673.jpg
+Saved progress: t00673.jpg processed.
+Processing (532/600): t00685.jpg
+Saved progress: t00685.jpg processed.
+Processing (533/600): t01132.jpg
+Saved progress: t01132.jpg processed.
+Processing (534/600): t00687.jpg
+Saved progress: t00687.jpg processed.
+Processing (535/600): t00215.jpg
+Saved progress: t00215.jpg processed.
+Processing (536/600): t00166.jpg
+Saved progress: t00166.jpg processed.
+Processing (537/600): t00859.jpg
+Saved progress: t00859.jpg processed.
+Processing (538/600): t00759.jpg
+Saved progress: t00759.jpg processed.
+Processing (539/600): t00619.jpg
+Saved progress: t00619.jpg processed.
+Processing (540/600): t00683.jpg
+Saved progress: t00683.jpg processed.
+Processing (541/600): t00218.jpg
+Saved progress: t00218.jpg processed.
+Processing (542/600): t00810.jpg
+Saved progress: t00810.jpg processed.
+Processing (543/600): t00191.jpg
+Saved progress: t00191.jpg processed.
+Processing (544/600): t00743.jpg
+Saved progress: t00743.jpg processed.
+Processing (545/600): t00561.jpg
+Saved progress: t00561.jpg processed.
+Processing (546/600): t01157.jpg
+Saved progress: t01157.jpg processed.
+Processing (547/600): t00677.jpg
+Saved progress: t00677.jpg processed.
+Processing (548/600): t00566.jpg
+Saved progress: t00566.jpg processed.
+Processing (549/600): t00788.jpg
+Saved progress: t00788.jpg processed.
+Processing (550/600): t01152.jpg
+Saved progress: t01152.jpg processed.
+Processing (551/600): t00871.jpg
+Saved progress: t00871.jpg processed.
+Processing (552/600): t00196.jpg
+Saved progress: t00196.jpg processed.
+Processing (553/600): t00939.jpg
+Saved progress: t00939.jpg processed.
+Processing (554/600): t00778.jpg
+Saved progress: t00778.jpg processed.
+Processing (555/600): t00478.jpg
+Saved progress: t00478.jpg processed.
+Processing (556/600): t00949.jpg
+Saved progress: t00949.jpg processed.
+Processing (557/600): t00780.jpg
+Saved progress: t00780.jpg processed.
+Processing (558/600): t00341.jpg
+Saved progress: t00341.jpg processed.
+Processing (559/600): t00475.jpg
+Saved progress: t00475.jpg processed.
+Processing (560/600): t01168.jpg
+Saved progress: t01168.jpg processed.
+Processing (561/600): t00590.jpg
+Saved progress: t00590.jpg processed.
+Processing (562/600): t00887.jpg
+Saved progress: t00887.jpg processed.
+Processing (563/600): t00366.jpg
+Saved progress: t00366.jpg processed.
+Processing (564/600): t00833.jpg
+Saved progress: t00833.jpg processed.
+Processing (565/600): t00888.jpg
+Saved progress: t00888.jpg processed.
+Processing (566/600): t00897.jpg
+Saved progress: t00897.jpg processed.
+Processing (567/600): t00576.jpg
+Saved progress: t00576.jpg processed.
+Processing (568/600): t00907.jpg
+Saved progress: t00907.jpg processed.
+Processing (569/600): t00712.jpg
+Saved progress: t00712.jpg processed.
+Processing (570/600): t01190.jpg
+Saved progress: t01190.jpg processed.
+Processing (571/600): t00626.jpg
+Saved progress: t00626.jpg processed.
+Processing (572/600): t00308.jpg
+Saved progress: t00308.jpg processed.
+Processing (573/600): t00265.jpg
+Saved progress: t00265.jpg processed.
+Processing (574/600): t00594.jpg
+Saved progress: t00594.jpg processed.
+Processing (575/600): t00932.jpg
+Saved progress: t00932.jpg processed.
+Processing (576/600): t00180.jpg
+Saved progress: t00180.jpg processed.
+Processing (577/600): t00912.jpg
+Saved progress: t00912.jpg processed.
+Processing (578/600): t00047.jpg
+Saved progress: t00047.jpg processed.
+Processing (579/600): t00317.jpg
+Saved progress: t00317.jpg processed.
+Processing (580/600): t00410.jpg
+Saved progress: t00410.jpg processed.
+Processing (581/600): t00758.jpg
+Saved progress: t00758.jpg processed.
+Processing (582/600): t01036.jpg
+Saved progress: t01036.jpg processed.
+Processing (583/600): t00973.jpg
+Saved progress: t00973.jpg processed.
+Processing (584/600): t00042.jpg
+Saved progress: t00042.jpg processed.
+Processing (585/600): t00880.jpg
+Saved progress: t00880.jpg processed.
+Processing (586/600): t00096.jpg
+Saved progress: t00096.jpg processed.
+Processing (587/600): t00227.jpg
+Saved progress: t00227.jpg processed.
+Processing (588/600): t00765.jpg
+Saved progress: t00765.jpg processed.
+Processing (589/600): t00995.jpg
+Saved progress: t00995.jpg processed.
+Processing (590/600): t00285.jpg
+Saved progress: t00285.jpg processed.
+Processing (591/600): t00307.jpg
+Saved progress: t00307.jpg processed.
+Processing (592/600): t00584.jpg
+Saved progress: t00584.jpg processed.
+Processing (593/600): t00610.jpg
+Saved progress: t00610.jpg processed.
+Processing (594/600): t00972.jpg
+Saved progress: t00972.jpg processed.
+Processing (595/600): t00476.jpg
+Saved progress: t00476.jpg processed.
+Processing (596/600): t00058.jpg
+Saved progress: t00058.jpg processed.
+Processing (597/600): t00106.jpg
+Saved progress: t00106.jpg processed.
+Processing (598/600): t00420.jpg
+Saved progress: t00420.jpg processed.
+Processing (599/600): t01146.jpg
+Saved progress: t01146.jpg processed.
+Processing (600/600): t00014.jpg
+Saved progress: t00014.jpg processed.
+Processing complete. Results saved to qwen_72b_one_shot.json
+/home/xzhang2/miniconda3/envs/Image/lib/python3.10/site-packages/transformers/utils/hub.py:106: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Downloading shards:   0%|          | 0/38 [00:00<?, ?it/s]Downloading shards: 100%|██████████| 38/38 [00:00<00:00, 5022.80it/s]
+Loading checkpoint shards:   0%|          | 0/38 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/38 [00:01<00:59,  1.60s/it]Loading checkpoint shards:   5%|▌         | 2/38 [00:03<00:56,  1.57s/it]Loading checkpoint shards:   8%|▊         | 3/38 [00:04<00:54,  1.56s/it]Loading checkpoint shards:  11%|█         | 4/38 [00:06<00:52,  1.55s/it]Loading checkpoint shards:  13%|█▎        | 5/38 [00:08<00:55,  1.67s/it]Loading checkpoint shards:  16%|█▌        | 6/38 [00:12<01:23,  2.62s/it]Loading checkpoint shards:  18%|█▊        | 7/38 [00:17<01:40,  3.23s/it]Loading checkpoint shards:  21%|██        | 8/38 [00:21<01:49,  3.63s/it]Loading checkpoint shards:  24%|██▎       | 9/38 [00:26<01:53,  3.90s/it]Loading checkpoint shards:  26%|██▋       | 10/38 [00:32<02:08,  4.60s/it]Loading checkpoint shards:  29%|██▉       | 11/38 [00:39<02:26,  5.41s/it]Loading checkpoint shards:  32%|███▏      | 12/38 [00:43<02:11,  5.07s/it]Loading checkpoint shards:  34%|███▍      | 13/38 [00:48<02:00,  4.83s/it]Loading checkpoint shards:  37%|███▋      | 14/38 [00:52<01:51,  4.65s/it]Loading checkpoint shards:  39%|███▉      | 15/38 [00:56<01:44,  4.53s/it]Loading checkpoint shards:  42%|████▏     | 16/38 [01:00<01:38,  4.47s/it]Loading checkpoint shards:  45%|████▍     | 17/38 [01:05<01:32,  4.40s/it]Loading checkpoint shards:  47%|████▋     | 18/38 [01:09<01:27,  4.39s/it]Loading checkpoint shards:  50%|█████     | 19/38 [01:13<01:23,  4.40s/it]Loading checkpoint shards:  53%|█████▎    | 20/38 [01:18<01:20,  4.45s/it]Loading checkpoint shards:  55%|█████▌    | 21/38 [01:23<01:16,  4.50s/it]Loading checkpoint shards:  58%|█████▊    | 22/38 [01:26<01:07,  4.23s/it]Loading checkpoint shards:  61%|██████    | 23/38 [01:28<00:51,  3.45s/it]Loading checkpoint shards:  63%|██████▎   | 24/38 [01:29<00:40,  2.90s/it]Loading checkpoint shards:  66%|██████▌   | 25/38 [01:31<00:32,  2.49s/it]Loading checkpoint shards:  68%|██████▊   | 26/38 [01:32<00:26,  2.19s/it]Loading checkpoint shards:  71%|███████   | 27/38 [01:34<00:22,  2.01s/it]Loading checkpoint shards:  74%|███████▎  | 28/38 [01:36<00:18,  1.89s/it]Loading checkpoint shards:  76%|███████▋  | 29/38 [01:37<00:16,  1.79s/it]Loading checkpoint shards:  79%|███████▉  | 30/38 [01:39<00:13,  1.69s/it]Loading checkpoint shards:  82%|████████▏ | 31/38 [01:42<00:16,  2.31s/it]Loading checkpoint shards:  84%|████████▍ | 32/38 [01:47<00:17,  2.99s/it]Loading checkpoint shards:  87%|████████▋ | 33/38 [01:51<00:17,  3.44s/it]Loading checkpoint shards:  89%|████████▉ | 34/38 [01:56<00:15,  3.77s/it]Loading checkpoint shards:  92%|█████████▏| 35/38 [02:01<00:11,  3.98s/it]Loading checkpoint shards:  95%|█████████▍| 36/38 [02:05<00:08,  4.15s/it]Loading checkpoint shards:  97%|█████████▋| 37/38 [02:08<00:03,  3.71s/it]Loading checkpoint shards: 100%|██████████| 38/38 [02:10<00:00,  3.39s/it]Loading checkpoint shards: 100%|██████████| 38/38 [02:10<00:00,  3.44s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.48, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Total files to process: 600
+Already processed files: 0
+Processing (1/600): t00208.jpg
+Saved progress: t00208.jpg processed.
+Processing (2/600): t00424.jpg
+Saved progress: t00424.jpg processed.
+Processing (3/600): t00980.jpg
+Saved progress: t00980.jpg processed.
+Processing (4/600): t00781.jpg
+Saved progress: t00781.jpg processed.
+Processing (5/600): t00802.jpg
+Saved progress: t00802.jpg processed.
+Processing (6/600): t00592.jpg
+Saved progress: t00592.jpg processed.
+Processing (7/600): t00913.jpg
+Saved progress: t00913.jpg processed.
+Processing (8/600): t00775.jpg
+Saved progress: t00775.jpg processed.
+Processing (9/600): t01136.jpg
+Saved progress: t01136.jpg processed.
+Processing (10/600): t00109.jpg
+Saved progress: t00109.jpg processed.
+Processing (11/600): t01013.jpg
+Saved progress: t01013.jpg processed.
+Processing (12/600): t00806.jpg
+Saved progress: t00806.jpg processed.
+Processing (13/600): t00013.jpg
+Saved progress: t00013.jpg processed.
+Processing (14/600): t00550.jpg
+Saved progress: t00550.jpg processed.
+Processing (15/600): t00676.jpg
+Saved progress: t00676.jpg processed.
+Processing (16/600): t00327.jpg
+Saved progress: t00327.jpg processed.
+Processing (17/600): t01040.jpg
+Saved progress: t01040.jpg processed.
+Processing (18/600): t00061.jpg
+Saved progress: t00061.jpg processed.
+Processing (19/600): t00025.jpg
+Saved progress: t00025.jpg processed.
+Processing (20/600): t01149.jpg
+Saved progress: t01149.jpg processed.
+Processing (21/600): t00997.jpg
+Saved progress: t00997.jpg processed.
+Processing (22/600): t00970.jpg
+Saved progress: t00970.jpg processed.
+Processing (23/600): t00407.jpg
+Saved progress: t00407.jpg processed.
+Processing (24/600): t00064.jpg
+Saved progress: t00064.jpg processed.
+Processing (25/600): t01176.jpg
+Saved progress: t01176.jpg processed.
+Processing (26/600): t00161.jpg
+Saved progress: t00161.jpg processed.
+Processing (27/600): t00459.jpg
+Saved progress: t00459.jpg processed.
+Processing (28/600): t00288.jpg
+Saved progress: t00288.jpg processed.
+Processing (29/600): t00469.jpg
+Saved progress: t00469.jpg processed.
+Processing (30/600): t00250.jpg
+Saved progress: t00250.jpg processed.
+Processing (31/600): t00094.jpg
+Saved progress: t00094.jpg processed.
+Processing (32/600): t00875.jpg
+Saved progress: t00875.jpg processed.
+Processing (33/600): t00036.jpg
+Saved progress: t00036.jpg processed.
+Processing (34/600): t00373.jpg
+Saved progress: t00373.jpg processed.
+Processing (35/600): t00333.jpg
+Saved progress: t00333.jpg processed.
+Processing (36/600): t00255.jpg
+Saved progress: t00255.jpg processed.
+Processing (37/600): t00710.jpg
+Saved progress: t00710.jpg processed.
+Processing (38/600): t00105.jpg
+Saved progress: t00105.jpg processed.
+Processing (39/600): t00201.jpg
+Saved progress: t00201.jpg processed.
+Processing (40/600): t00075.jpg
+Saved progress: t00075.jpg processed.
+Processing (41/600): t00663.jpg
+Saved progress: t00663.jpg processed.
+Processing (42/600): t01039.jpg
+Saved progress: t01039.jpg processed.
+Processing (43/600): t00835.jpg
+Saved progress: t00835.jpg processed.
+Processing (44/600): t00644.jpg
+Saved progress: t00644.jpg processed.
+Processing (45/600): t00691.jpg
+Saved progress: t00691.jpg processed.
+Processing (46/600): t00268.jpg
+Saved progress: t00268.jpg processed.
+Processing (47/600): t00137.jpg
+Saved progress: t00137.jpg processed.
+Processing (48/600): t00262.jpg
+Saved progress: t00262.jpg processed.
+Processing (49/600): t00484.jpg
+Saved progress: t00484.jpg processed.
+Processing (50/600): t00542.jpg
+Saved progress: t00542.jpg processed.
+Processing (51/600): t00646.jpg
+Saved progress: t00646.jpg processed.
+Processing (52/600): t01193.jpg
+Saved progress: t01193.jpg processed.
+Processing (53/600): t00951.jpg
+Saved progress: t00951.jpg processed.
+Processing (54/600): t00449.jpg
+Saved progress: t00449.jpg processed.
+Processing (55/600): t00457.jpg
+Saved progress: t00457.jpg processed.
+Processing (56/600): t00043.jpg
+Saved progress: t00043.jpg processed.
+Processing (57/600): t00493.jpg
+Saved progress: t00493.jpg processed.
+Processing (58/600): t00696.jpg
+Saved progress: t00696.jpg processed.
+Processing (59/600): t00928.jpg
+Saved progress: t00928.jpg processed.
+Processing (60/600): t00338.jpg
+Saved progress: t00338.jpg processed.
+Processing (61/600): t00460.jpg
+Saved progress: t00460.jpg processed.
+Processing (62/600): t01048.jpg
+Saved progress: t01048.jpg processed.
+Processing (63/600): t00885.jpg
+Saved progress: t00885.jpg processed.
+Processing (64/600): t00100.jpg
+Saved progress: t00100.jpg processed.
+Processing (65/600): t00198.jpg
+Saved progress: t00198.jpg processed.
+Processing (66/600): t01196.jpg
+Saved progress: t01196.jpg processed.
+Processing (67/600): t00490.jpg
+Saved progress: t00490.jpg processed.
+Processing (68/600): t00558.jpg
+Saved progress: t00558.jpg processed.
+Processing (69/600): t00488.jpg
+Saved progress: t00488.jpg processed.
+Processing (70/600): t00070.jpg
+Saved progress: t00070.jpg processed.
+Processing (71/600): t00318.jpg
+Saved progress: t00318.jpg processed.
+Processing (72/600): t01009.jpg
+Saved progress: t01009.jpg processed.
+Processing (73/600): t00519.jpg
+Saved progress: t00519.jpg processed.
+Processing (74/600): t00987.jpg
+Saved progress: t00987.jpg processed.
+Processing (75/600): t00943.jpg
+Saved progress: t00943.jpg processed.
+Processing (76/600): t00516.jpg
+Saved progress: t00516.jpg processed.
+Processing (77/600): t00405.jpg
+Saved progress: t00405.jpg processed.
+Processing (78/600): t01137.jpg
+Saved progress: t01137.jpg processed.
+Processing (79/600): t00746.jpg
+Saved progress: t00746.jpg processed.
+Processing (80/600): t00578.jpg
+Saved progress: t00578.jpg processed.
+Processing (81/600): t00879.jpg
+Saved progress: t00879.jpg processed.
+Processing (82/600): t00088.jpg
+Saved progress: t00088.jpg processed.
+Processing (83/600): t00329.jpg
+Saved progress: t00329.jpg processed.
+Processing (84/600): t00267.jpg
+Saved progress: t00267.jpg processed.
+Processing (85/600): t00009.jpg
+Saved progress: t00009.jpg processed.
+Processing (86/600): t01159.jpg
+Saved progress: t01159.jpg processed.
+Processing (87/600): t00065.jpg
+Saved progress: t00065.jpg processed.
+Processing (88/600): t01045.jpg
+Saved progress: t01045.jpg processed.
+Processing (89/600): t00965.jpg
+Saved progress: t00965.jpg processed.
+Processing (90/600): t00826.jpg
+Saved progress: t00826.jpg processed.
+Processing (91/600): t00138.jpg
+Saved progress: t00138.jpg processed.
+Processing (92/600): t01007.jpg
+Saved progress: t01007.jpg processed.
+Processing (93/600): t00546.jpg
+Saved progress: t00546.jpg processed.
+Processing (94/600): t00774.jpg
+Saved progress: t00774.jpg processed.
+Processing (95/600): t00797.jpg
+Saved progress: t00797.jpg processed.
+Processing (96/600): t00219.jpg
+Saved progress: t00219.jpg processed.
+Processing (97/600): t00444.jpg
+Saved progress: t00444.jpg processed.
+Processing (98/600): t00698.jpg
+Saved progress: t00698.jpg processed.
+Processing (99/600): t00465.jpg
+Saved progress: t00465.jpg processed.
+Processing (100/600): t00573.jpg
+Saved progress: t00573.jpg processed.
+Processing (101/600): t00146.jpg
+Saved progress: t00146.jpg processed.
+Processing (102/600): t00849.jpg
+Saved progress: t00849.jpg processed.
+Processing (103/600): t01135.jpg
+Saved progress: t01135.jpg processed.
+Processing (104/600): t00330.jpg
+Saved progress: t00330.jpg processed.
+Processing (105/600): t00357.jpg
+Saved progress: t00357.jpg processed.
+Processing (106/600): t00197.jpg
+Saved progress: t00197.jpg processed.
+Processing (107/600): t00914.jpg
+Saved progress: t00914.jpg processed.
+Processing (108/600): t01062.jpg
+Saved progress: t01062.jpg processed.
+Processing (109/600): t00142.jpg
+Saved progress: t00142.jpg processed.
+Processing (110/600): t01096.jpg
+Saved progress: t01096.jpg processed.
+Processing (111/600): t01057.jpg
+Saved progress: t01057.jpg processed.
+Processing (112/600): t01003.jpg
+Saved progress: t01003.jpg processed.
+Processing (113/600): t00415.jpg
+Saved progress: t00415.jpg processed.
+Processing (114/600): t00659.jpg
+Saved progress: t00659.jpg processed.
+Processing (115/600): t00722.jpg
+Saved progress: t00722.jpg processed.
+Processing (116/600): t00760.jpg
+Saved progress: t00760.jpg processed.
+Processing (117/600): t00919.jpg
+Saved progress: t00919.jpg processed.
+Processing (118/600): t01051.jpg
+Saved progress: t01051.jpg processed.
+Processing (119/600): t00102.jpg
+Saved progress: t00102.jpg processed.
+Processing (120/600): t01079.jpg
+Saved progress: t01079.jpg processed.
+Processing (121/600): t00471.jpg
+Saved progress: t00471.jpg processed.
+Processing (122/600): t00052.jpg
+Saved progress: t00052.jpg processed.
+Processing (123/600): t01109.jpg
+Saved progress: t01109.jpg processed.
+Processing (124/600): t00204.jpg
+Saved progress: t00204.jpg processed.
+Processing (125/600): t00151.jpg
+Saved progress: t00151.jpg processed.
+Processing (126/600): t00960.jpg
+Saved progress: t00960.jpg processed.
+Processing (127/600): t00945.jpg
+Saved progress: t00945.jpg processed.
+Processing (128/600): t00827.jpg
+Saved progress: t00827.jpg processed.
+Processing (129/600): t00978.jpg
+Saved progress: t00978.jpg processed.
+Processing (130/600): t00882.jpg
+Saved progress: t00882.jpg processed.
+Processing (131/600): t00001.jpg
+Saved progress: t00001.jpg processed.
+Processing (132/600): t01043.jpg
+Saved progress: t01043.jpg processed.
+Processing (133/600): t01118.jpg
+Saved progress: t01118.jpg processed.
+Processing (134/600): t00543.jpg
+Saved progress: t00543.jpg processed.
+Processing (135/600): t00863.jpg
+Saved progress: t00863.jpg processed.
+Processing (136/600): t00248.jpg
+Saved progress: t00248.jpg processed.
+Processing (137/600): t00769.jpg
+Saved progress: t00769.jpg processed.
+Processing (138/600): t00456.jpg
+Saved progress: t00456.jpg processed.
+Processing (139/600): t00324.jpg
+Saved progress: t00324.jpg processed.
+Processing (140/600): t00343.jpg
+Saved progress: t00343.jpg processed.
+Processing (141/600): t00194.jpg
+Saved progress: t00194.jpg processed.
+Processing (142/600): t01065.jpg
+Saved progress: t01065.jpg processed.
+Processing (143/600): t00312.jpg
+Saved progress: t00312.jpg processed.
+Processing (144/600): t01124.jpg
+Saved progress: t01124.jpg processed.
+Processing (145/600): t00556.jpg
+Saved progress: t00556.jpg processed.
+Processing (146/600): t00908.jpg
+Saved progress: t00908.jpg processed.
+Processing (147/600): t00124.jpg
+Saved progress: t00124.jpg processed.
+Processing (148/600): t01148.jpg
+Saved progress: t01148.jpg processed.
+Processing (149/600): t00422.jpg
+Saved progress: t00422.jpg processed.
+Processing (150/600): t01199.jpg
+Saved progress: t01199.jpg processed.
+Processing (151/600): t01167.jpg
+Saved progress: t01167.jpg processed.
+Processing (152/600): t01022.jpg
+Saved progress: t01022.jpg processed.
+Processing (153/600): t00074.jpg
+Saved progress: t00074.jpg processed.
+Processing (154/600): t00127.jpg
+Saved progress: t00127.jpg processed.
+Processing (155/600): t00505.jpg
+Saved progress: t00505.jpg processed.
+Processing (156/600): t00583.jpg
+Saved progress: t00583.jpg processed.
+Processing (157/600): t01120.jpg
+Saved progress: t01120.jpg processed.
+Processing (158/600): t01197.jpg
+Saved progress: t01197.jpg processed.
+Processing (159/600): t00608.jpg
+Saved progress: t00608.jpg processed.
+Processing (160/600): t00209.jpg
+Saved progress: t00209.jpg processed.
+Processing (161/600): t00979.jpg
+Saved progress: t00979.jpg processed.
+Processing (162/600): t00667.jpg
+Saved progress: t00667.jpg processed.
+Processing (163/600): t01103.jpg
+Saved progress: t01103.jpg processed.
+Processing (164/600): t00649.jpg
+Saved progress: t00649.jpg processed.
+Processing (165/600): t01178.jpg
+Saved progress: t01178.jpg processed.
+Processing (166/600): t00183.jpg
+Saved progress: t00183.jpg processed.
+Processing (167/600): t00062.jpg
+Saved progress: t00062.jpg processed.
+Processing (168/600): t01154.jpg
+Saved progress: t01154.jpg processed.
+Processing (169/600): t00674.jpg
+Saved progress: t00674.jpg processed.
+Processing (170/600): t00086.jpg
+Saved progress: t00086.jpg processed.
+Processing (171/600): t00777.jpg
+Saved progress: t00777.jpg processed.
+Processing (172/600): t00023.jpg
+Saved progress: t00023.jpg processed.
+Processing (173/600): t00130.jpg
+Saved progress: t00130.jpg processed.
+Processing (174/600): t00448.jpg
+Saved progress: t00448.jpg processed.
+Processing (175/600): t00552.jpg
+Saved progress: t00552.jpg processed.
+Processing (176/600): t00555.jpg
+Saved progress: t00555.jpg processed.
+Processing (177/600): t00411.jpg
+Saved progress: t00411.jpg processed.
+Processing (178/600): t00336.jpg
+Saved progress: t00336.jpg processed.
+Processing (179/600): t01029.jpg
+Saved progress: t01029.jpg processed.
+Processing (180/600): t00570.jpg
+Saved progress: t00570.jpg processed.
+Processing (181/600): t01116.jpg
+Saved progress: t01116.jpg processed.
+Processing (182/600): t00141.jpg
+Saved progress: t00141.jpg processed.
+Processing (183/600): t00567.jpg
+Saved progress: t00567.jpg processed.
+Processing (184/600): t00399.jpg
+Saved progress: t00399.jpg processed.
+Processing (185/600): t00290.jpg
+Saved progress: t00290.jpg processed.
+Processing (186/600): t01032.jpg
+Saved progress: t01032.jpg processed.
+Processing (187/600): t00873.jpg
+Saved progress: t00873.jpg processed.
+Processing (188/600): t01070.jpg
+Saved progress: t01070.jpg processed.
+Processing (189/600): t01025.jpg
+Saved progress: t01025.jpg processed.
+Processing (190/600): t00323.jpg
+Saved progress: t00323.jpg processed.
+Processing (191/600): t01171.jpg
+Saved progress: t01171.jpg processed.
+Processing (192/600): t00059.jpg
+Saved progress: t00059.jpg processed.
+Processing (193/600): t00135.jpg
+Saved progress: t00135.jpg processed.
+Processing (194/600): t00131.jpg
+Saved progress: t00131.jpg processed.
+Processing (195/600): t00664.jpg
+Saved progress: t00664.jpg processed.
+Processing (196/600): t01161.jpg
+Saved progress: t01161.jpg processed.
+Processing (197/600): t00990.jpg
+Saved progress: t00990.jpg processed.
+Processing (198/600): t00940.jpg
+Saved progress: t00940.jpg processed.
+Processing (199/600): t00168.jpg
+Saved progress: t00168.jpg processed.
+Processing (200/600): t00890.jpg
+Saved progress: t00890.jpg processed.
+Processing (201/600): t00752.jpg
+Saved progress: t00752.jpg processed.
+Processing (202/600): t00199.jpg
+Saved progress: t00199.jpg processed.
+Processing (203/600): t00669.jpg
+Saved progress: t00669.jpg processed.
+Processing (204/600): t00244.jpg
+Saved progress: t00244.jpg processed.
+Processing (205/600): t00060.jpg
+Saved progress: t00060.jpg processed.
+Processing (206/600): t00563.jpg
+Saved progress: t00563.jpg processed.
+Processing (207/600): t00695.jpg
+Saved progress: t00695.jpg processed.
+Processing (208/600): t01172.jpg
+Saved progress: t01172.jpg processed.
+Processing (209/600): t01019.jpg
+Saved progress: t01019.jpg processed.
+Processing (210/600): t00963.jpg
+Saved progress: t00963.jpg processed.
+Processing (211/600): t00707.jpg
+Saved progress: t00707.jpg processed.
+Processing (212/600): t00473.jpg
+Saved progress: t00473.jpg processed.
+Processing (213/600): t00977.jpg
+Saved progress: t00977.jpg processed.
+Processing (214/600): t00720.jpg
+Saved progress: t00720.jpg processed.
+Processing (215/600): t01087.jpg
+Saved progress: t01087.jpg processed.
+Processing (216/600): t00520.jpg
+Saved progress: t00520.jpg processed.
+Processing (217/600): t00224.jpg
+Saved progress: t00224.jpg processed.
+Processing (218/600): t01020.jpg
+Saved progress: t01020.jpg processed.
+Processing (219/600): t01117.jpg
+Saved progress: t01117.jpg processed.
+Processing (220/600): t00593.jpg
+Saved progress: t00593.jpg processed.
+Processing (221/600): t00569.jpg
+Saved progress: t00569.jpg processed.
+Processing (222/600): t00865.jpg
+Saved progress: t00865.jpg processed.
+Processing (223/600): t00803.jpg
+Saved progress: t00803.jpg processed.
+Processing (224/600): t00347.jpg
+Saved progress: t00347.jpg processed.
+Processing (225/600): t00468.jpg
+Saved progress: t00468.jpg processed.
+Processing (226/600): t00764.jpg
+Saved progress: t00764.jpg processed.
+Processing (227/600): t00321.jpg
+Saved progress: t00321.jpg processed.
+Processing (228/600): t01105.jpg
+Saved progress: t01105.jpg processed.
+Processing (229/600): t00441.jpg
+Saved progress: t00441.jpg processed.
+Processing (230/600): t00596.jpg
+Saved progress: t00596.jpg processed.
+Processing (231/600): t00134.jpg
+Saved progress: t00134.jpg processed.
+Processing (232/600): t00656.jpg
+Saved progress: t00656.jpg processed.
+Processing (233/600): t01129.jpg
+Saved progress: t01129.jpg processed.
+Processing (234/600): t00967.jpg
+Saved progress: t00967.jpg processed.
+Processing (235/600): t00446.jpg
+Saved progress: t00446.jpg processed.
+Processing (236/600): t00924.jpg
+Saved progress: t00924.jpg processed.
+Processing (237/600): t00249.jpg
+Saved progress: t00249.jpg processed.
+Processing (238/600): t00082.jpg
+Saved progress: t00082.jpg processed.
+Processing (239/600): t00270.jpg
+Saved progress: t00270.jpg processed.
+Processing (240/600): t00003.jpg
+Saved progress: t00003.jpg processed.
+Processing (241/600): t00734.jpg
+Saved progress: t00734.jpg processed.
+Processing (242/600): t00228.jpg
+Saved progress: t00228.jpg processed.
+Processing (243/600): t00416.jpg
+Saved progress: t00416.jpg processed.
+Processing (244/600): t00830.jpg
+Saved progress: t00830.jpg processed.
+Processing (245/600): t00243.jpg
+Saved progress: t00243.jpg processed.
+Processing (246/600): t00278.jpg
+Saved progress: t00278.jpg processed.
+Processing (247/600): t00648.jpg
+Saved progress: t00648.jpg processed.
+Processing (248/600): t00122.jpg
+Saved progress: t00122.jpg processed.
+Processing (249/600): t00353.jpg
+Saved progress: t00353.jpg processed.
+Processing (250/600): t00564.jpg
+Saved progress: t00564.jpg processed.
+Processing (251/600): t00936.jpg
+Saved progress: t00936.jpg processed.
+Processing (252/600): t01198.jpg
+Saved progress: t01198.jpg processed.
+Processing (253/600): t00611.jpg
+Saved progress: t00611.jpg processed.
+Processing (254/600): t01055.jpg
+Saved progress: t01055.jpg processed.
+Processing (255/600): t00362.jpg
+Saved progress: t00362.jpg processed.
+Processing (256/600): t00679.jpg
+Saved progress: t00679.jpg processed.
+Processing (257/600): t00418.jpg
+Saved progress: t00418.jpg processed.
+Processing (258/600): t00252.jpg
+Saved progress: t00252.jpg processed.
+Processing (259/600): t00492.jpg
+Saved progress: t00492.jpg processed.
+Processing (260/600): t00432.jpg
+Saved progress: t00432.jpg processed.
+Processing (261/600): t00884.jpg
+Saved progress: t00884.jpg processed.
+Processing (262/600): t01115.jpg
+Saved progress: t01115.jpg processed.
+Processing (263/600): t00292.jpg
+Saved progress: t00292.jpg processed.
+Processing (264/600): t00551.jpg
+Saved progress: t00551.jpg processed.
+Processing (265/600): t00437.jpg
+Saved progress: t00437.jpg processed.
+Processing (266/600): t00158.jpg
+Saved progress: t00158.jpg processed.
+Processing (267/600): t00077.jpg
+Saved progress: t00077.jpg processed.
+Processing (268/600): t01111.jpg
+Saved progress: t01111.jpg processed.
+Processing (269/600): t00530.jpg
+Saved progress: t00530.jpg processed.
+Processing (270/600): t00358.jpg
+Saved progress: t00358.jpg processed.
+Processing (271/600): t01092.jpg
+Saved progress: t01092.jpg processed.
+Processing (272/600): t01073.jpg
+Saved progress: t01073.jpg processed.
+Processing (273/600): t00732.jpg
+Saved progress: t00732.jpg processed.
+Processing (274/600): t00452.jpg
+Saved progress: t00452.jpg processed.
+Processing (275/600): t00982.jpg
+Saved progress: t00982.jpg processed.
+Processing (276/600): t00069.jpg
+Saved progress: t00069.jpg processed.
+Processing (277/600): t00850.jpg
+Saved progress: t00850.jpg processed.
+Processing (278/600): t00271.jpg
+Saved progress: t00271.jpg processed.
+Processing (279/600): t00162.jpg
+Saved progress: t00162.jpg processed.
+Processing (280/600): t00181.jpg
+Saved progress: t00181.jpg processed.
+Processing (281/600): t00903.jpg
+Saved progress: t00903.jpg processed.
+Processing (282/600): t01098.jpg
+Saved progress: t01098.jpg processed.
+Processing (283/600): t00118.jpg
+Saved progress: t00118.jpg processed.
+Processing (284/600): t00114.jpg
+Saved progress: t00114.jpg processed.
+Processing (285/600): t00110.jpg
+Saved progress: t00110.jpg processed.
+Processing (286/600): t00421.jpg
+Saved progress: t00421.jpg processed.
+Processing (287/600): t01145.jpg
+Saved progress: t01145.jpg processed.
+Processing (288/600): t00283.jpg
+Saved progress: t00283.jpg processed.
+Processing (289/600): t01123.jpg
+Saved progress: t01123.jpg processed.
+Processing (290/600): t00378.jpg
+Saved progress: t00378.jpg processed.
+Processing (291/600): t01027.jpg
+Saved progress: t01027.jpg processed.
+Processing (292/600): t00024.jpg
+Saved progress: t00024.jpg processed.
+Processing (293/600): t00572.jpg
+Saved progress: t00572.jpg processed.
+Processing (294/600): t00303.jpg
+Saved progress: t00303.jpg processed.
+Processing (295/600): t00163.jpg
+Saved progress: t00163.jpg processed.
+Processing (296/600): t00481.jpg
+Saved progress: t00481.jpg processed.
+Processing (297/600): t00190.jpg
+Saved progress: t00190.jpg processed.
+Processing (298/600): t00854.jpg
+Saved progress: t00854.jpg processed.
+Processing (299/600): t00713.jpg
+Saved progress: t00713.jpg processed.
+Processing (300/600): t00866.jpg
+Saved progress: t00866.jpg processed.
+Processing (301/600): t01034.jpg
+Saved progress: t01034.jpg processed.
+Processing (302/600): t00229.jpg
+Saved progress: t00229.jpg processed.
+Processing (303/600): t00999.jpg
+Saved progress: t00999.jpg processed.
+Processing (304/600): t01194.jpg
+Saved progress: t01194.jpg processed.
+Processing (305/600): t00302.jpg
+Saved progress: t00302.jpg processed.
+Processing (306/600): t00966.jpg
+Saved progress: t00966.jpg processed.
+Processing (307/600): t01192.jpg
+Saved progress: t01192.jpg processed.
+Processing (308/600): t01099.jpg
+Saved progress: t01099.jpg processed.
+Processing (309/600): t00998.jpg
+Saved progress: t00998.jpg processed.
+Processing (310/600): t00055.jpg
+Saved progress: t00055.jpg processed.
+Processing (311/600): t00189.jpg
+Saved progress: t00189.jpg processed.
+Processing (312/600): t01004.jpg
+Saved progress: t01004.jpg processed.
+Processing (313/600): t00937.jpg
+Saved progress: t00937.jpg processed.
+Processing (314/600): t00440.jpg
+Saved progress: t00440.jpg processed.
+Processing (315/600): t00868.jpg
+Saved progress: t00868.jpg processed.
+Processing (316/600): t00447.jpg
+Saved progress: t00447.jpg processed.
+Processing (317/600): t01083.jpg
+Saved progress: t01083.jpg processed.
+Processing (318/600): t00869.jpg
+Saved progress: t00869.jpg processed.
+Processing (319/600): t00150.jpg
+Saved progress: t00150.jpg processed.
+Processing (320/600): t00589.jpg
+Saved progress: t00589.jpg processed.
+Processing (321/600): t00217.jpg
+Saved progress: t00217.jpg processed.
+Processing (322/600): t00136.jpg
+Saved progress: t00136.jpg processed.
+Processing (323/600): t00828.jpg
+Saved progress: t00828.jpg processed.
+Processing (324/600): t01100.jpg
+Saved progress: t01100.jpg processed.
+Processing (325/600): t01097.jpg
+Saved progress: t01097.jpg processed.
+Processing (326/600): t00408.jpg
+Saved progress: t00408.jpg processed.
+Processing (327/600): t01130.jpg
+Saved progress: t01130.jpg processed.
+Processing (328/600): t00598.jpg
+Saved progress: t00598.jpg processed.
+Processing (329/600): t00453.jpg
+Saved progress: t00453.jpg processed.
+Processing (330/600): t00553.jpg
+Saved progress: t00553.jpg processed.
+Processing (331/600): t00008.jpg
+Saved progress: t00008.jpg processed.
+Processing (332/600): t00002.jpg
+Saved progress: t00002.jpg processed.
+Processing (333/600): t00876.jpg
+Saved progress: t00876.jpg processed.
+Processing (334/600): t00625.jpg
+Saved progress: t00625.jpg processed.
+Processing (335/600): t00856.jpg
+Saved progress: t00856.jpg processed.
+Processing (336/600): t00957.jpg
+Saved progress: t00957.jpg processed.
+Processing (337/600): t00316.jpg
+Saved progress: t00316.jpg processed.
+Processing (338/600): t00747.jpg
+Saved progress: t00747.jpg processed.
+Processing (339/600): t01151.jpg
+Saved progress: t01151.jpg processed.
+Processing (340/600): t00486.jpg
+Saved progress: t00486.jpg processed.
+Processing (341/600): t00735.jpg
+Saved progress: t00735.jpg processed.
+Processing (342/600): t00054.jpg
+Saved progress: t00054.jpg processed.
+Processing (343/600): t00753.jpg
+Saved progress: t00753.jpg processed.
+Processing (344/600): t00955.jpg
+Saved progress: t00955.jpg processed.
+Processing (345/600): t00634.jpg
+Saved progress: t00634.jpg processed.
+Processing (346/600): t00638.jpg
+Saved progress: t00638.jpg processed.
+Processing (347/600): t00929.jpg
+Saved progress: t00929.jpg processed.
+Processing (348/600): t00435.jpg
+Saved progress: t00435.jpg processed.
+Processing (349/600): t00152.jpg
+Saved progress: t00152.jpg processed.
+Processing (350/600): t01006.jpg
+Saved progress: t01006.jpg processed.
+Processing (351/600): t00675.jpg
+Saved progress: t00675.jpg processed.
+Processing (352/600): t00682.jpg
+Saved progress: t00682.jpg processed.
+Processing (353/600): t00829.jpg
+Saved progress: t00829.jpg processed.
+Processing (354/600): t00498.jpg
+Saved progress: t00498.jpg processed.
+Processing (355/600): t00451.jpg
+Saved progress: t00451.jpg processed.
+Processing (356/600): t01090.jpg
+Saved progress: t01090.jpg processed.
+Processing (357/600): t01140.jpg
+Saved progress: t01140.jpg processed.
+Processing (358/600): t01000.jpg
+Saved progress: t01000.jpg processed.
+Processing (359/600): t00748.jpg
+Saved progress: t00748.jpg processed.
+Processing (360/600): t00840.jpg
+Saved progress: t00840.jpg processed.
+Processing (361/600): t01104.jpg
+Saved progress: t01104.jpg processed.
+Processing (362/600): t01181.jpg
+Saved progress: t01181.jpg processed.
+Processing (363/600): t01191.jpg
+Saved progress: t01191.jpg processed.
+Processing (364/600): t01095.jpg
+Saved progress: t01095.jpg processed.
+Processing (365/600): t01155.jpg
+Saved progress: t01155.jpg processed.
+Processing (366/600): t00388.jpg
+Saved progress: t00388.jpg processed.
+Processing (367/600): t00906.jpg
+Saved progress: t00906.jpg processed.
+Processing (368/600): t00548.jpg
+Saved progress: t00548.jpg processed.
+Processing (369/600): t01010.jpg
+Saved progress: t01010.jpg processed.
+Processing (370/600): t00620.jpg
+Saved progress: t00620.jpg processed.
+Processing (371/600): t00165.jpg
+Saved progress: t00165.jpg processed.
+Processing (372/600): t00506.jpg
+Saved progress: t00506.jpg processed.
+Processing (373/600): t00413.jpg
+Saved progress: t00413.jpg processed.
+Processing (374/600): t00789.jpg
+Saved progress: t00789.jpg processed.
+Processing (375/600): t00895.jpg
+Saved progress: t00895.jpg processed.
+Processing (376/600): t00630.jpg
+Saved progress: t00630.jpg processed.
+Processing (377/600): t00429.jpg
+Saved progress: t00429.jpg processed.
+Processing (378/600): t00988.jpg
+Saved progress: t00988.jpg processed.
+Processing (379/600): t00704.jpg
+Saved progress: t00704.jpg processed.
+Processing (380/600): t01189.jpg
+Saved progress: t01189.jpg processed.
+Processing (381/600): t01110.jpg
+Saved progress: t01110.jpg processed.
+Processing (382/600): t00526.jpg
+Saved progress: t00526.jpg processed.
+Processing (383/600): t00609.jpg
+Saved progress: t00609.jpg processed.
+Processing (384/600): t00339.jpg
+Saved progress: t00339.jpg processed.
+Processing (385/600): t00795.jpg
+Saved progress: t00795.jpg processed.
+Processing (386/600): t00039.jpg
+Saved progress: t00039.jpg processed.
+Processing (387/600): t00233.jpg
+Saved progress: t00233.jpg processed.
+Processing (388/600): t00817.jpg
+Saved progress: t00817.jpg processed.
+Processing (389/600): t00340.jpg
+Saved progress: t00340.jpg processed.
+Processing (390/600): t00692.jpg
+Saved progress: t00692.jpg processed.
+Processing (391/600): t00836.jpg
+Saved progress: t00836.jpg processed.
+Processing (392/600): t00497.jpg
+Saved progress: t00497.jpg processed.
+Processing (393/600): t00816.jpg
+Saved progress: t00816.jpg processed.
+Processing (394/600): t00242.jpg
+Saved progress: t00242.jpg processed.
+Processing (395/600): t00741.jpg
+Saved progress: t00741.jpg processed.
+Processing (396/600): t01127.jpg
+Saved progress: t01127.jpg processed.
+Processing (397/600): t00273.jpg
+Saved progress: t00273.jpg processed.
+Processing (398/600): t00391.jpg
+Saved progress: t00391.jpg processed.
+Processing (399/600): t00313.jpg
+Saved progress: t00313.jpg processed.
+Processing (400/600): t00240.jpg
+Saved progress: t00240.jpg processed.
+Processing (401/600): t00600.jpg
+Saved progress: t00600.jpg processed.
+Processing (402/600): t00466.jpg
+Saved progress: t00466.jpg processed.
+Processing (403/600): t00539.jpg
+Saved progress: t00539.jpg processed.
+Processing (404/600): t00745.jpg
+Saved progress: t00745.jpg processed.
+Processing (405/600): t01067.jpg
+Saved progress: t01067.jpg processed.
+Processing (406/600): t00969.jpg
+Saved progress: t00969.jpg processed.
+Processing (407/600): t00740.jpg
+Saved progress: t00740.jpg processed.
+Processing (408/600): t00099.jpg
+Saved progress: t00099.jpg processed.
+Processing (409/600): t00254.jpg
+Saved progress: t00254.jpg processed.
+Processing (410/600): t00574.jpg
+Saved progress: t00574.jpg processed.
+Processing (411/600): t00095.jpg
+Saved progress: t00095.jpg processed.
+Processing (412/600): t00143.jpg
+Saved progress: t00143.jpg processed.
+Processing (413/600): t00711.jpg
+Saved progress: t00711.jpg processed.
+Processing (414/600): t00727.jpg
+Saved progress: t00727.jpg processed.
+Processing (415/600): t00182.jpg
+Saved progress: t00182.jpg processed.
+Processing (416/600): t00173.jpg
+Saved progress: t00173.jpg processed.
+Processing (417/600): t00523.jpg
+Saved progress: t00523.jpg processed.
+Processing (418/600): t00549.jpg
+Saved progress: t00549.jpg processed.
+Processing (419/600): t00782.jpg
+Saved progress: t00782.jpg processed.
+Processing (420/600): t00111.jpg
+Saved progress: t00111.jpg processed.
+Processing (421/600): t00535.jpg
+Saved progress: t00535.jpg processed.
+Processing (422/600): t00946.jpg
+Saved progress: t00946.jpg processed.
+Processing (423/600): t01142.jpg
+Saved progress: t01142.jpg processed.
+Processing (424/600): t00372.jpg
+Saved progress: t00372.jpg processed.
+Processing (425/600): t00311.jpg
+Saved progress: t00311.jpg processed.
+Processing (426/600): t00518.jpg
+Saved progress: t00518.jpg processed.
+Processing (427/600): t00040.jpg
+Saved progress: t00040.jpg processed.
+Processing (428/600): t00045.jpg
+Saved progress: t00045.jpg processed.
+Processing (429/600): t01185.jpg
+Saved progress: t01185.jpg processed.
+Processing (430/600): t00754.jpg
+Saved progress: t00754.jpg processed.
+Processing (431/600): t00964.jpg
+Saved progress: t00964.jpg processed.
+Processing (432/600): t00703.jpg
+Saved progress: t00703.jpg processed.
+Processing (433/600): t00351.jpg
+Saved progress: t00351.jpg processed.
+Processing (434/600): t00247.jpg
+Saved progress: t00247.jpg processed.
+Processing (435/600): t00028.jpg
+Saved progress: t00028.jpg processed.
+Processing (436/600): t00005.jpg
+Saved progress: t00005.jpg processed.
+Processing (437/600): t01101.jpg
+Saved progress: t01101.jpg processed.
+Processing (438/600): t00689.jpg
+Saved progress: t00689.jpg processed.
+Processing (439/600): t00601.jpg
+Saved progress: t00601.jpg processed.
+Processing (440/600): t00986.jpg
+Saved progress: t00986.jpg processed.
+Processing (441/600): t01093.jpg
+Saved progress: t01093.jpg processed.
+Processing (442/600): t01126.jpg
+Saved progress: t01126.jpg processed.
+Processing (443/600): t01177.jpg
+Saved progress: t01177.jpg processed.
+Processing (444/600): t00900.jpg
+Saved progress: t00900.jpg processed.
+Processing (445/600): t00538.jpg
+Saved progress: t00538.jpg processed.
+Processing (446/600): t00326.jpg
+Saved progress: t00326.jpg processed.
+Processing (447/600): t00120.jpg
+Saved progress: t00120.jpg processed.
+Processing (448/600): t00680.jpg
+Saved progress: t00680.jpg processed.
+Processing (449/600): t00350.jpg
+Saved progress: t00350.jpg processed.
+Processing (450/600): t00170.jpg
+Saved progress: t00170.jpg processed.
+Processing (451/600): t00430.jpg
+Saved progress: t00430.jpg processed.
+Processing (452/600): t00864.jpg
+Saved progress: t00864.jpg processed.
+Processing (453/600): t00652.jpg
+Saved progress: t00652.jpg processed.
+Processing (454/600): t00660.jpg
+Saved progress: t00660.jpg processed.
+Processing (455/600): t00733.jpg
+Saved progress: t00733.jpg processed.
+Processing (456/600): t00521.jpg
+Saved progress: t00521.jpg processed.
+Processing (457/600): t00133.jpg
+Saved progress: t00133.jpg processed.
+Processing (458/600): t00514.jpg
+Saved progress: t00514.jpg processed.
+Processing (459/600): t00636.jpg
+Saved progress: t00636.jpg processed.
+Processing (460/600): t00433.jpg
+Saved progress: t00433.jpg processed.
+Processing (461/600): t01163.jpg
+Saved progress: t01163.jpg processed.
+Processing (462/600): t00365.jpg
+Saved progress: t00365.jpg processed.
+Processing (463/600): t00412.jpg
+Saved progress: t00412.jpg processed.
+Processing (464/600): t00709.jpg
+Saved progress: t00709.jpg processed.
+Processing (465/600): t00000.jpg
+Saved progress: t00000.jpg processed.
+Processing (466/600): t00686.jpg
+Saved progress: t00686.jpg processed.
+Processing (467/600): t00953.jpg
+Saved progress: t00953.jpg processed.
+Processing (468/600): t00821.jpg
+Saved progress: t00821.jpg processed.
+Processing (469/600): t00393.jpg
+Saved progress: t00393.jpg processed.
+Processing (470/600): t00309.jpg
+Saved progress: t00309.jpg processed.
+Processing (471/600): t00222.jpg
+Saved progress: t00222.jpg processed.
+Processing (472/600): t00257.jpg
+Saved progress: t00257.jpg processed.
+Processing (473/600): t00718.jpg
+Saved progress: t00718.jpg processed.
+Processing (474/600): t00621.jpg
+Saved progress: t00621.jpg processed.
+Processing (475/600): t00501.jpg
+Saved progress: t00501.jpg processed.
+Processing (476/600): t00175.jpg
+Saved progress: t00175.jpg processed.
+Processing (477/600): t00051.jpg
+Saved progress: t00051.jpg processed.
+Processing (478/600): t00291.jpg
+Saved progress: t00291.jpg processed.
+Processing (479/600): t00771.jpg
+Saved progress: t00771.jpg processed.
+Processing (480/600): t00359.jpg
+Saved progress: t00359.jpg processed.
+Processing (481/600): t01165.jpg
+Saved progress: t01165.jpg processed.
+Processing (482/600): t00093.jpg
+Saved progress: t00093.jpg processed.
+Processing (483/600): t00203.jpg
+Saved progress: t00203.jpg processed.
+Processing (484/600): t00661.jpg
+Saved progress: t00661.jpg processed.
+Processing (485/600): t00597.jpg
+Saved progress: t00597.jpg processed.
+Processing (486/600): t00507.jpg
+Saved progress: t00507.jpg processed.
+Processing (487/600): t00517.jpg
+Saved progress: t00517.jpg processed.
+Processing (488/600): t00877.jpg
+Saved progress: t00877.jpg processed.
+Processing (489/600): t00899.jpg
+Saved progress: t00899.jpg processed.
+Processing (490/600): t00635.jpg
+Saved progress: t00635.jpg processed.
+Processing (491/600): t00083.jpg
+Saved progress: t00083.jpg processed.
+Processing (492/600): t00186.jpg
+Saved progress: t00186.jpg processed.
+Processing (493/600): t00015.jpg
+Saved progress: t00015.jpg processed.
+Processing (494/600): t00532.jpg
+Saved progress: t00532.jpg processed.
+Processing (495/600): t00500.jpg
+Saved progress: t00500.jpg processed.
+Processing (496/600): t00187.jpg
+Saved progress: t00187.jpg processed.
+Processing (497/600): t00772.jpg
+Saved progress: t00772.jpg processed.
+Processing (498/600): t00541.jpg
+Saved progress: t00541.jpg processed.
+Processing (499/600): t00334.jpg
+Saved progress: t00334.jpg processed.
+Processing (500/600): t01169.jpg
+Saved progress: t01169.jpg processed.
+Processing (501/600): t01005.jpg
+Saved progress: t01005.jpg processed.
+Processing (502/600): t00409.jpg
+Saved progress: t00409.jpg processed.
+Processing (503/600): t00315.jpg
+Saved progress: t00315.jpg processed.
+Processing (504/600): t00527.jpg
+Saved progress: t00527.jpg processed.
+Processing (505/600): t00006.jpg
+Saved progress: t00006.jpg processed.
+Processing (506/600): t00958.jpg
+Saved progress: t00958.jpg processed.
+Processing (507/600): t01147.jpg
+Saved progress: t01147.jpg processed.
+Processing (508/600): t00145.jpg
+Saved progress: t00145.jpg processed.
+Processing (509/600): t00981.jpg
+Saved progress: t00981.jpg processed.
+Processing (510/600): t00819.jpg
+Saved progress: t00819.jpg processed.
+Processing (511/600): t00582.jpg
+Saved progress: t00582.jpg processed.
+Processing (512/600): t00565.jpg
+Saved progress: t00565.jpg processed.
+Processing (513/600): t00467.jpg
+Saved progress: t00467.jpg processed.
+Processing (514/600): t01015.jpg
+Saved progress: t01015.jpg processed.
+Processing (515/600): t01082.jpg
+Saved progress: t01082.jpg processed.
+Processing (516/600): t01018.jpg
+Saved progress: t01018.jpg processed.
+Processing (517/600): t00178.jpg
+Saved progress: t00178.jpg processed.
+Processing (518/600): t00071.jpg
+Saved progress: t00071.jpg processed.
+Processing (519/600): t00206.jpg
+Saved progress: t00206.jpg processed.
+Processing (520/600): t00159.jpg
+Saved progress: t00159.jpg processed.
+Processing (521/600): t00234.jpg
+Saved progress: t00234.jpg processed.
+Processing (522/600): t00306.jpg
+Saved progress: t00306.jpg processed.
+Processing (523/600): t00394.jpg
+Saved progress: t00394.jpg processed.
+Processing (524/600): t00230.jpg
+Saved progress: t00230.jpg processed.
+Processing (525/600): t00629.jpg
+Saved progress: t00629.jpg processed.
+Processing (526/600): t00948.jpg
+Saved progress: t00948.jpg processed.
+Processing (527/600): t00293.jpg
+Saved progress: t00293.jpg processed.
+Processing (528/600): t00436.jpg
+Saved progress: t00436.jpg processed.
+Processing (529/600): t00260.jpg
+Saved progress: t00260.jpg processed.
+Processing (530/600): t00923.jpg
+Saved progress: t00923.jpg processed.
+Processing (531/600): t00673.jpg
+Saved progress: t00673.jpg processed.
+Processing (532/600): t00685.jpg
+Saved progress: t00685.jpg processed.
+Processing (533/600): t01132.jpg
+Saved progress: t01132.jpg processed.
+Processing (534/600): t00687.jpg
+Saved progress: t00687.jpg processed.
+Processing (535/600): t00215.jpg
+Saved progress: t00215.jpg processed.
+Processing (536/600): t00166.jpg
+Saved progress: t00166.jpg processed.
+Processing (537/600): t00859.jpg
+Saved progress: t00859.jpg processed.
+Processing (538/600): t00759.jpg
+Saved progress: t00759.jpg processed.
+Processing (539/600): t00619.jpg
+Saved progress: t00619.jpg processed.
+Processing (540/600): t00683.jpg
+Saved progress: t00683.jpg processed.
+Processing (541/600): t00218.jpg
+Saved progress: t00218.jpg processed.
+Processing (542/600): t00810.jpg
+Saved progress: t00810.jpg processed.
+Processing (543/600): t00191.jpg
+Saved progress: t00191.jpg processed.
+Processing (544/600): t00743.jpg
+Saved progress: t00743.jpg processed.
+Processing (545/600): t00561.jpg
+Saved progress: t00561.jpg processed.
+Processing (546/600): t01157.jpg
+Saved progress: t01157.jpg processed.
+Processing (547/600): t00677.jpg
+Saved progress: t00677.jpg processed.
+Processing (548/600): t00566.jpg
+Saved progress: t00566.jpg processed.
+Processing (549/600): t00788.jpg
+Saved progress: t00788.jpg processed.
+Processing (550/600): t01152.jpg
+Saved progress: t01152.jpg processed.
+Processing (551/600): t00871.jpg
+Saved progress: t00871.jpg processed.
+Processing (552/600): t00196.jpg
+Saved progress: t00196.jpg processed.
+Processing (553/600): t00939.jpg
+Saved progress: t00939.jpg processed.
+Processing (554/600): t00778.jpg
+Saved progress: t00778.jpg processed.
+Processing (555/600): t00478.jpg
+Saved progress: t00478.jpg processed.
+Processing (556/600): t00949.jpg
+Saved progress: t00949.jpg processed.
+Processing (557/600): t00780.jpg
+Saved progress: t00780.jpg processed.
+Processing (558/600): t00341.jpg
+Saved progress: t00341.jpg processed.
+Processing (559/600): t00475.jpg
+Saved progress: t00475.jpg processed.
+Processing (560/600): t01168.jpg
+Saved progress: t01168.jpg processed.
+Processing (561/600): t00590.jpg
+Saved progress: t00590.jpg processed.
+Processing (562/600): t00887.jpg
+Saved progress: t00887.jpg processed.
+Processing (563/600): t00366.jpg
+Saved progress: t00366.jpg processed.
+Processing (564/600): t00833.jpg
+Saved progress: t00833.jpg processed.
+Processing (565/600): t00888.jpg
+Saved progress: t00888.jpg processed.
+Processing (566/600): t00897.jpg
+Saved progress: t00897.jpg processed.
+Processing (567/600): t00576.jpg
+Saved progress: t00576.jpg processed.
+Processing (568/600): t00907.jpg
+Saved progress: t00907.jpg processed.
+Processing (569/600): t00712.jpg
+Saved progress: t00712.jpg processed.
+Processing (570/600): t01190.jpg
+Saved progress: t01190.jpg processed.
+Processing (571/600): t00626.jpg
+Saved progress: t00626.jpg processed.
+Processing (572/600): t00308.jpg
+Saved progress: t00308.jpg processed.
+Processing (573/600): t00265.jpg
+Saved progress: t00265.jpg processed.
+Processing (574/600): t00594.jpg
+Saved progress: t00594.jpg processed.
+Processing (575/600): t00932.jpg
+Saved progress: t00932.jpg processed.
+Processing (576/600): t00180.jpg
+Saved progress: t00180.jpg processed.
+Processing (577/600): t00912.jpg
+Saved progress: t00912.jpg processed.
+Processing (578/600): t00047.jpg
+Saved progress: t00047.jpg processed.
+Processing (579/600): t00317.jpg
+Saved progress: t00317.jpg processed.
+Processing (580/600): t00410.jpg
+Saved progress: t00410.jpg processed.
+Processing (581/600): t00758.jpg
+Saved progress: t00758.jpg processed.
+Processing (582/600): t01036.jpg
+Saved progress: t01036.jpg processed.
+Processing (583/600): t00973.jpg
+Saved progress: t00973.jpg processed.
+Processing (584/600): t00042.jpg
+Saved progress: t00042.jpg processed.
+Processing (585/600): t00880.jpg
+Saved progress: t00880.jpg processed.
+Processing (586/600): t00096.jpg
+Saved progress: t00096.jpg processed.
+Processing (587/600): t00227.jpg
+Saved progress: t00227.jpg processed.
+Processing (588/600): t00765.jpg
+Saved progress: t00765.jpg processed.
+Processing (589/600): t00995.jpg
+Saved progress: t00995.jpg processed.
+Processing (590/600): t00285.jpg
+Saved progress: t00285.jpg processed.
+Processing (591/600): t00307.jpg
+Saved progress: t00307.jpg processed.
+Processing (592/600): t00584.jpg
+Saved progress: t00584.jpg processed.
+Processing (593/600): t00610.jpg
+Saved progress: t00610.jpg processed.
+Processing (594/600): t00972.jpg
+Saved progress: t00972.jpg processed.
+Processing (595/600): t00476.jpg
+Saved progress: t00476.jpg processed.
+Processing (596/600): t00058.jpg
+Saved progress: t00058.jpg processed.
+Processing (597/600): t00106.jpg
+Saved progress: t00106.jpg processed.
+Processing (598/600): t00420.jpg
+Saved progress: t00420.jpg processed.
+Processing (599/600): t01146.jpg
+Saved progress: t01146.jpg processed.
+Processing (600/600): t00014.jpg
+Saved progress: t00014.jpg processed.
+Processing complete. Results saved to qwen_72b_two_shot.json
+/home/xzhang2/miniconda3/envs/Image/lib/python3.10/site-packages/transformers/utils/hub.py:106: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Downloading shards:   0%|          | 0/38 [00:00<?, ?it/s]Downloading shards: 100%|██████████| 38/38 [00:00<00:00, 6208.22it/s]
+Loading checkpoint shards:   0%|          | 0/38 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/38 [00:04<02:47,  4.54s/it]Loading checkpoint shards:   5%|▌         | 2/38 [00:09<02:44,  4.57s/it]Loading checkpoint shards:   8%|▊         | 3/38 [00:13<02:40,  4.57s/it]Loading checkpoint shards:  11%|█         | 4/38 [00:18<02:44,  4.84s/it]Loading checkpoint shards:  13%|█▎        | 5/38 [00:23<02:36,  4.75s/it]Loading checkpoint shards:  16%|█▌        | 6/38 [00:28<02:30,  4.69s/it]Loading checkpoint shards:  18%|█▊        | 7/38 [00:32<02:23,  4.63s/it]Loading checkpoint shards:  21%|██        | 8/38 [00:37<02:17,  4.59s/it]Loading checkpoint shards:  24%|██▎       | 9/38 [00:41<02:12,  4.57s/it]Loading checkpoint shards:  26%|██▋       | 10/38 [00:46<02:07,  4.55s/it]Loading checkpoint shards:  29%|██▉       | 11/38 [00:50<01:59,  4.42s/it]Loading checkpoint shards:  32%|███▏      | 12/38 [00:51<01:32,  3.57s/it]Loading checkpoint shards:  34%|███▍      | 13/38 [00:53<01:13,  2.95s/it]Loading checkpoint shards:  37%|███▋      | 14/38 [00:54<01:00,  2.51s/it]Loading checkpoint shards:  39%|███▉      | 15/38 [00:56<00:51,  2.24s/it]Loading checkpoint shards:  42%|████▏     | 16/38 [00:58<00:45,  2.05s/it]Loading checkpoint shards:  45%|████▍     | 17/38 [00:59<00:39,  1.89s/it]Loading checkpoint shards:  47%|████▋     | 18/38 [01:01<00:35,  1.76s/it]Loading checkpoint shards:  50%|█████     | 19/38 [01:02<00:32,  1.72s/it]Loading checkpoint shards:  53%|█████▎    | 20/38 [01:04<00:30,  1.69s/it]Loading checkpoint shards:  55%|█████▌    | 21/38 [01:05<00:27,  1.64s/it]Loading checkpoint shards:  58%|█████▊    | 22/38 [01:08<00:31,  1.94s/it]Loading checkpoint shards:  61%|██████    | 23/38 [01:13<00:41,  2.75s/it]Loading checkpoint shards:  63%|██████▎   | 24/38 [01:17<00:46,  3.30s/it]Loading checkpoint shards:  66%|██████▌   | 25/38 [01:22<00:47,  3.67s/it]Loading checkpoint shards:  68%|██████▊   | 26/38 [01:26<00:47,  3.96s/it]Loading checkpoint shards:  71%|███████   | 27/38 [01:31<00:45,  4.15s/it]Loading checkpoint shards:  74%|███████▎  | 28/38 [01:36<00:42,  4.29s/it]Loading checkpoint shards:  76%|███████▋  | 29/38 [01:40<00:39,  4.35s/it]Loading checkpoint shards:  79%|███████▉  | 30/38 [01:45<00:35,  4.39s/it]Loading checkpoint shards:  82%|████████▏ | 31/38 [01:49<00:31,  4.43s/it]Loading checkpoint shards:  84%|████████▍ | 32/38 [01:54<00:27,  4.50s/it]Loading checkpoint shards:  87%|████████▋ | 33/38 [01:58<00:22,  4.50s/it]Loading checkpoint shards:  89%|████████▉ | 34/38 [02:03<00:18,  4.54s/it]Loading checkpoint shards:  92%|█████████▏| 35/38 [02:08<00:13,  4.59s/it]Loading checkpoint shards:  95%|█████████▍| 36/38 [02:12<00:09,  4.61s/it]Loading checkpoint shards:  97%|█████████▋| 37/38 [02:16<00:04,  4.45s/it]Loading checkpoint shards: 100%|██████████| 38/38 [02:19<00:00,  3.87s/it]Loading checkpoint shards: 100%|██████████| 38/38 [02:19<00:00,  3.67s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.48, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
